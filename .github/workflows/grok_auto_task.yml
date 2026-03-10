@@ -1,0 +1,66 @@
+name: AI吃瓜日报自动发布
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # 每天北京时间 07:00
+  workflow_dispatch:
+
+jobs:
+  run-grok:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install playwright requests pynacl
+          playwright install chromium --with-deps
+
+      - name: Run grok_auto_task
+        env:
+          SUPER_GROK_COOKIES:   ${{ secrets.SUPER_GROK_COOKIES }}
+          FEISHU_WEBHOOK_URL:   ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL_1: ${{ secrets.FEISHU_WEBHOOK_URL_1 }}
+          FEISHU_WEBHOOK_URL_2: ${{ secrets.FEISHU_WEBHOOK_URL_2 }}
+          FEISHU_WEBHOOK_URL_3: ${{ secrets.FEISHU_WEBHOOK_URL_3 }}
+          SF_API_KEY:           ${{ secrets.SF_API_KEY }}
+          IMGBB_API_KEY:        ${{ secrets.IMGBB_API_KEY }}
+          KIMI_API_KEY:         ${{ secrets.KIMI_API_KEY }}
+          OPENROUTER_API_KEY:   ${{ secrets.OPENROUTER_API_KEY }}
+          PAT_FOR_SECRETS:      ${{ secrets.PAT_FOR_SECRETS }}
+          GITHUB_REPOSITORY:    ${{ github.repository }}
+          JIJYUN_WEBHOOK_URL:   ${{ secrets.JIJYUN_WEBHOOK_URL }}
+        run: python grok_auto_task.py
+
+      - name: Commit daily data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ || true
+          git diff --staged --quiet || git commit -m "chore: save daily data $(date -u +%Y-%m-%d)"
+          git push || true
+
+      - name: Upload screenshots and logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: artifacts-${{ github.run_number }}
+          path: |
+            *.png
+            *.log
+          retention-days: 7
+          if-no-files-found: ignore
