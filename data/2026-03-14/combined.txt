@@ -1,0 +1,48 @@
+{"a": "tualatrix", "l": 73, "t": "0313", "s": "After daily battles with AI leaving me exhausted and cursing, hugging my baby softens my heart.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0313", "s": "Tomorrow I'll try it!", "tag": "raw"}
+{"a": "tualatrix", "l": 5, "t": "0313", "s": "The build exploded here, and my mentality exploded too.", "tag": "raw"}
+{"a": "mranti", "l": 2, "t": "0313", "s": "ByteDance speed is more than 3 times slower than Alibaba Bailian and Kimi official website.", "tag": "raw"}
+{"a": "mranti", "l": 17, "t": "0313", "s": "Currently, Alibaba Bailian at 40 yuan with Kimi 2.5 offers the best cost performance for AI coding.", "tag": "raw"}
+{"a": "mranti", "l": 28, "t": "0313", "s": "Kane's school is holding an AI programming competition using Deepseek web version; he solved 6 tasks quickly.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "Game-like design in apps like CapWords makes language learning fun through collection and dopamine, unlike gamification in Duolingo.", "tag": "raw"}
+{"a": "nishuang", "l": 13, "t": "0409", "s": "Amie transformed from calendar/to-do/email into an AI efficiency tool for meetings.", "tag": "raw"}
+{"a": "nishuang", "l": 29, "t": "0409", "s": "Apple flew 5 planes of iPhones to US to avoid tariffs; inventory enough for months.", "tag": "raw"}
+{"a": "a16z", "l": 16, "t": "0313", "s": "Future of AI needs multiple models like a team with specializations; platforms integrating them win.", "tag": "raw"}
+{"a": "a16z", "l": 105, "t": "0313", "s": "We're seeing a YouTube moment for software where everyone can make and distribute apps easily.", "tag": "raw"}
+{"a": "a16z", "l": 728, "t": "0313", "s": "The world is a museum of passion projects.", "tag": "raw"}
+{"a": "ycombinator", "l": 291, "t": "0313", "s": "Register for YC Startup School in India event.", "tag": "raw"}
+{"a": "ycombinator", "l": 2234, "t": "0313", "s": "Startup School coming to India with founders from Razorpay, Meesho, Groww.", "tag": "raw"}
+{"a": "ycombinator", "l": 72, "t": "0312", "s": "Rubric AI converts expert judgment into training signals for AI models.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 7, "t": "0313", "s": "Hosting event on AI agents production infrastructure with Anthropic and Stacks.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0313", "s": "Stablecoins rewriting money movement systems; recap of A Very Stable Conference.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 25, "t": "0312", "s": "Ideas Move at Lightspeed Retreat in Park City with Coach K on leadership.", "tag": "raw"}
+{"a": "sequoia", "l": 25, "t": "0313", "s": "Satya Nadella on Microsoft CapEx for AI data centers at AI Builders Salon.", "tag": "raw"}
+{"a": "sequoia", "l": 11, "t": "0305", "s": "Full conversation between bhalligan and bhorowitz on urgency in market.", "tag": "raw"}
+{"a": "sequoia", "l": 7, "t": "0203", "s": "2026 year of specialized intelligence in AI.", "tag": "raw"}
+{"a": "eladgil", "l": 16, "t": "0311", "s": "Congrats on Bluenote strategic collaboration.", "tag": "raw"}
+{"a": "eladgil", "l": 253, "t": "0308", "s": "Quote from Rene Girard on desires coming from deepest selves but being for what we lack.", "tag": "raw"}
+{"a": "eladgil", "l": 30, "t": "0305", "s": "Lol at dietary guidelines PDF.", "tag": "raw"}
+{"a": "pmarca", "l": 1219, "t": "0313", "s": "How many Claws are live on X? I want to say hello.", "tag": "raw"}
+{"a": "pmarca", "l": 138, "t": "0313", "s": "Names for AI pre-psychosis like AI Duty Dereliction Delirium.", "tag": "raw"}
+{"a": "pmarca", "l": 1760, "t": "0313", "s": "Need name for should be talking to AI but not doing it: AI psychosis?", "tag": "raw"}
+{"a": "bchesky", "l": 21, "t": "0313", "s": "Congrats!!!!", "tag": "raw"}
+{"a": "bchesky", "l": 53, "t": "0212", "s": "Momentum from new blueprint for innovation at Airbnb.", "tag": "raw"}
+{"a": "bchesky", "l": 70, "t": "0212", "s": "AI accelerating everything; building personalized app at Airbnb.", "tag": "raw"}
+{"a": "chamath", "l": 6, "t": "0313", "s": "Emojis reacting.", "tag": "raw"}
+{"a": "chamath", "l": 6, "t": "0313", "s": "Prayer hands.", "tag": "raw"}
+{"a": "chamath", "l": 21, "t": "0313", "s": "Salute emoji.", "tag": "raw"}
+{"a": "paulg", "l": 23, "t": "0313", "s": "This is ridiculous. These must be entirely AI generated.", "tag": "raw"}
+{"a": "paulg", "l": 4, "t": "0312", "s": "Stiwers.", "tag": "raw"}
+{"a": "paulg", "l": 26, "t": "0312", "s": "Would trade midwinter rain for snow as it's brighter indoors.", "tag": "raw"}
+{"a": "TheInformation", "l": 6, "t": "0313", "s": "SpaceX considering unusual IPO structure splitting responsibilities among multiple banks.", "tag": "raw"}
+{"a": "TheInformation", "l": 8, "t": "0313", "s": "OpenAI expected valuation around 28x 2026 revenue looks steep vs Nvidia.", "tag": "raw"}
+{"a": "TheInformation", "l": 6, "t": "0313", "s": "Travis Kalanick preparing new self-driving startup with Uber backing.", "tag": "raw"}
+{"a": "TechCrunch", "l": 21, "t": "0313", "s": "VC hot take on acquisitions: big or small better than medium.", "tag": "raw"}
+{"a": "TechCrunch", "l": 19, "t": "0313", "s": "Digg lays off staff and shuts down app.", "tag": "raw"}
+{"a": "TechCrunch", "l": 13, "t": "0313", "s": "Nyne gives AI agents human context.", "tag": "raw"}
+{"a": "verge", "l": 12, "t": "0313", "s": "States anti-monopoly case against Live Nation continues Monday.", "tag": "raw"}
+{"a": "verge", "l": 15, "t": "0313", "s": "Spotify tests customizing Taste Profile.", "tag": "raw"}
+{"a": "verge", "l": 19, "t": "0313", "s": "Digg open beta shuts down blaming AI bot spam.", "tag": "raw"}
+{"a": "WIRED", "l": 1, "t": "0313", "s": "Secret to enjoying Vegas on business trip: go with the flow.", "tag": "raw"}
+{"a": "WIRED", "l": 7, "t": "0313", "s": "Apple Studio Display XDR review.", "tag": "raw"}
+{"a": "WIRED", "l": 4, "t": "0313", "s": "Logitech K98M wireless mechanical keyboard review.", "tag": "raw"}
