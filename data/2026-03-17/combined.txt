@@ -1,0 +1,57 @@
+{"a": "tualatrix", "l": 0, "t": "0316", "s": "Humorous comment joking that listening to something will cause a headache.", "tag": "raw"}
+{"a": "tualatrix", "l": 27, "t": "0316", "s": "The baby recently started babbling baby language like ah daddy, so the father turned the sound into a phone ringtone.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0316", "s": "Tests on iPad and Mac both failed, likely due to lack of Apple Silicon support despite sending to OpenAI for generation.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "User questions Air China about sudden cancellation of flight CA856 without prior email notice and requests options or refund.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Simple hello world post.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Message noting 11 o'clock.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Greeting to everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Commenting that houses in Tohoku are huge while watching NHK education channel.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Observation that both Twitter and 2chan feel heavy.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reply mentioning Nosu Toradamu in Japanese characters.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0316", "s": "Questioning whether this is an online concert.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0316", "s": "Created with Claude Code through multiple conversation rounds, not just one prompt.", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0316", "s": "It converts PDF to MD file using Clibre, which may not look good easily.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "Explains game-like design in apps using CapWords for language learning like collecting Pokemon, contrasting with Duolingo gamification to drive intrinsic motivation.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Points out misunderstanding of obstacles; full screen capture loses CapWords auto cutout and recognition feature.", "tag": "raw"}
+{"a": "a16z", "l": 94, "t": "0316", "s": "Shares Alex Imm's favorite Marc Andreessen anecdote from Alec Baldwin quote on rewarding sales performers, stressing backing market leaders.", "tag": "raw"}
+{"a": "a16z", "l": 111, "t": "0316", "s": "Rideshare is under 1% of miles and will grow massively as autonomous options like Waymo become cheaper than human-driven cars.", "tag": "raw"}
+{"a": "a16z", "l": 144, "t": "0316", "s": "Marc Andreessen recalls handling all tech support for Mosaic browser, effectively supporting the entire early internet.", "tag": "raw"}
+{"a": "ycombinator", "l": 19, "t": "0316", "s": "Announces Understood Care raising $8.4M for AI copilot helping seniors navigate US healthcare.", "tag": "raw"}
+{"a": "ycombinator", "l": 199, "t": "0316", "s": "Highlights 21st launch as production layer for AI agents like Claude Code used by 1.4M developers.", "tag": "raw"}
+{"a": "ycombinator", "l": 65, "t": "0316", "s": "Introduces Harbor platform automating data capture for clinical trials.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0313", "s": "Promotes registration for event on AI agents in production with Anthropic and Stacks.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 10, "t": "0313", "s": "Invites to discussion on production infrastructure for surging AI agents with Anthropic and StacksAI.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 18, "t": "0313", "s": "Recaps sponsorship of conference exploring stablecoins in enterprise payments infrastructure.", "tag": "raw"}
+{"a": "sequoia", "l": 48, "t": "0313", "s": "Features Satya Nadella on turning AI data center CapEx into ROIC at Sequoia AI Builders Salon.", "tag": "raw"}
+{"a": "sequoia", "l": 11, "t": "0305", "s": "Shares full podcast conversation between Brian Halligan and Ben Horowitz on great founders.", "tag": "raw"}
+{"a": "sequoia", "l": 7, "t": "0203", "s": "Links to full talk video from Sequoia event.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Shares Part IV examining Founders Fund's power and performance across Silicon Valley, Pentagon, and White House.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Posts Part III on Founders Fund's narrative influence and gospel reshaping Silicon Valley.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Provides link to full interview video.", "tag": "raw"}
+{"a": "eladgil", "l": 18, "t": "0311", "s": "Reacts with fire emoji to Bluenote AI's collaboration announcement with major Asia-Pacific CRO.", "tag": "raw"}
+{"a": "eladgil", "l": 248, "t": "0308", "s": "Quotes Rene Girard on desires arising from feeling lack rather than deepest self.", "tag": "raw"}
+{"a": "pmarca", "l": 494, "t": "0316", "s": "Describes humans as having 15-second context window, fake long-term memory, making daily function miraculous.", "tag": "raw"}
+{"a": "pmarca", "l": 399, "t": "0316", "s": "TLDR: There is no inner self; it is an imaginary concept.", "tag": "raw"}
+{"a": "pmarca", "l": 235, "t": "0316", "s": "Recommends book The Mind Is Flat for scientific demolition of introspection.", "tag": "raw"}
+{"a": "bchesky", "l": 431, "t": "0313", "s": "Offers congratulations.", "tag": "raw"}
+{"a": "bchesky", "l": 55, "t": "0212", "s": "Attributes Airbnb momentum to new innovation blueprint and aligned team in Q4 2025 results.", "tag": "raw"}
+{"a": "bchesky", "l": 76, "t": "0212", "s": "Explains deep AI integration using unique homes, identities, and reviews for personalized knowing app.", "tag": "raw"}
+{"a": "chamath", "l": 512, "t": "0316", "s": "Excited reaction highlighting Groq system alongside Vera Rubin and NVLink.", "tag": "raw"}
+{"a": "chamath", "l": 25, "t": "0316", "s": "Agrees with a statement as accurate.", "tag": "raw"}
+{"a": "chamath", "l": 121, "t": "0316", "s": "Argues store of value must be 100% hacking resistant as existential feature.", "tag": "raw"}
+{"a": "paulg", "l": 87, "t": "0316", "s": "Complains about extremely difficult account creation on European and Italian auction sites with multiple codes.", "tag": "raw"}
+{"a": "paulg", "l": 61, "t": "0316", "s": "Notes rule of law still exists but delayed by a year.", "tag": "raw"}
+{"a": "paulg", "l": 0, "t": "0316", "s": "Shares link to Liquid2 VC team page.", "tag": "raw"}
+{"a": "TheInformation", "l": 4, "t": "0316", "s": "Reports SaaS firms like Figma flag agentic AI disruption risks in filings but praise it publicly.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0316", "s": "Notes US military relies on traditional contractors despite billions raised by defense startups.", "tag": "raw"}
+{"a": "TheInformation", "l": 4, "t": "0316", "s": "Explains US super app struggles due to incumbent integration and contracts versus China.", "tag": "raw"}
+{"a": "TechCrunch", "l": 16, "t": "0316", "s": "Covers Nvidia's OpenClaw version potentially solving its major security problem.", "tag": "raw"}
+{"a": "TechCrunch", "l": 29, "t": "0316", "s": "Reports Jensen Huang elevating Nvidia Blackwell and Vera Rubin sales projections to trillion-dollar level.", "tag": "raw"}
+{"a": "TechCrunch", "l": 9, "t": "0316", "s": "Senator Warren questions Pentagon granting xAI access to classified networks.", "tag": "raw"}
+{"a": "verge", "l": 32, "t": "0316", "s": "Describes Nvidia DLSS 5 as real-time generative AI filter for PC game graphics.", "tag": "raw"}
+{"a": "verge", "l": 35, "t": "0316", "s": "Reports teens suing Elon Musk's xAI over Grok generating CSAM.", "tag": "raw"}
+{"a": "verge", "l": 8, "t": "0316", "s": "Highlights nearly 50 percent off on Ecovacs Deebot X8 and X9 Pro Omni robot vacuums.", "tag": "raw"}
+{"a": "WIRED", "l": 48, "t": "0316", "s": "Profiles 26-year-old Gen Z YouTuber Kat Abughazaleh running for Illinois 9th Congressional District.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0316", "s": "Promotes TurboTax deal for filing taxes before March 18 deadline.", "tag": "raw"}
+{"a": "WIRED", "l": 12, "t": "0316", "s": "Announces Nvidia launching open-source platform for AI agents at developer conference.", "tag": "raw"}
