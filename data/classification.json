@@ -1,7 +1,7 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "classification": {
-    "elonmusk": "S",
+    "elonmusk": "A",
     "sama": "A",
     "karpathy": "S",
     "demishassabis": "A",
@@ -35,8 +35,8 @@
     "hw_star": "B",
     "mranti": "B",
     "nishuang": "inactive",
-    "a16z": "A",
-    "ycombinator": "A",
+    "a16z": "B",
+    "ycombinator": "B",
     "lightspeedvp": "B",
     "sequoia": "B",
     "foundersfund": "inactive",
@@ -47,7 +47,7 @@
     "paulg": "A",
     "TheInformation": "B",
     "TechCrunch": "B",
-    "verge": "A",
+    "verge": "B",
     "WIRED": "B"
   }
 }
