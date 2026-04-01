@@ -1,9 +1,9 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "classification": {
     "elonmusk": "A",
     "sama": "A",
-    "karpathy": "S",
+    "karpathy": "B",
     "demishassabis": "A",
     "darioamodei": "inactive",
     "OpenAI": "A",
@@ -43,7 +43,7 @@
     "eladgil": "B",
     "pmarca": "A",
     "bchesky": "A",
-    "chamath": "A",
+    "chamath": "B",
     "paulg": "A",
     "TheInformation": "B",
     "TechCrunch": "B",
