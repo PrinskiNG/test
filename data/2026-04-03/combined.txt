@@ -1,0 +1,116 @@
+{"a": "elonmusk", "l": 3444, "t": "0402", "s": "Elon Musk replies 'Seems odd' to a post.", "tag": "raw"}
+{"a": "elonmusk", "l": 2182, "t": "0402", "s": "Elon Musk responds with a laughing emoji 😂.", "tag": "raw"}
+{"a": "elonmusk", "l": 633, "t": "0402", "s": "Elon Musk responds with a laughing emoji 😂.", "tag": "raw"}
+{"a": "sama", "l": 3323, "t": "0402", "s": "Sam Altman jokingly offers free ChatGPT Pro account and OpenAI T-shirts for a joint show appearance discussing weightlifting career mishap.", "tag": "raw"}
+{"a": "sama", "l": 3947, "t": "0402", "s": "Sam Altman praises TBPN as favorite tech show and supports their critical coverage of OpenAI while acknowledging his occasional mistakes.", "tag": "raw"}
+{"a": "sama", "l": 2353, "t": "0330", "s": "Sam Altman endorses blog post presenting state of AI safety in four fake graphs.", "tag": "raw"}
+{"a": "karpathy", "l": 103, "t": "0402", "s": "Andrej Karpathy agrees with a point saying he was just thinking the same thing.", "tag": "raw"}
+{"a": "karpathy", "l": 203, "t": "0402", "s": "Andrej Karpathy affirms data curation point and explains maintaining raw data as authoritative separate from derived wiki with backlinks.", "tag": "raw"}
+{"a": "karpathy", "l": 584, "t": "0402", "s": "Andrej Karpathy advises converting EPUB to text for book summarization by processing one chapter at a time in stages for optimal results.", "tag": "raw"}
+{"a": "demishassabis", "l": 389, "t": "0402", "s": "Demis Hassabis announces Gemma 4 available under Apache 2.0 in Google AI Studio or downloadable from Hugging Face Kaggle Ollama with 400M downloads.", "tag": "raw"}
+{"a": "demishassabis", "l": 6136, "t": "0402", "s": "Demis Hassabis launches Gemma 4 best open models in four sizes for fine-tuning tasks including 31B dense 26B MoE and edge variants.", "tag": "raw"}
+{"a": "demishassabis", "l": 4170, "t": "0401", "s": "Demis Hassabis posts diamond emojis 💎💎💎💎.", "tag": "raw"}
+{"a": "darioamodei", "l": 6656, "t": "0126", "s": "Dario Amodei shares essay on AI risks to national security economies democracy and defenses relevant to Minnesota events.", "tag": "raw"}
+{"a": "darioamodei", "l": 2362, "t": "0126", "s": "Dario Amodei notes companion to Machines of Loving Grace essay focused on positive AI achievements if done right.", "tag": "raw"}
+{"a": "darioamodei", "l": 15336, "t": "0126", "s": "Dario Amodei publishes essay The Adolescence of Technology on powerful AI risks to security economies democracy and defenses.", "tag": "raw"}
+{"a": "OpenAI", "l": 6697, "t": "0402", "s": "OpenAI announces ChatGPT now available in CarPlay with voice mode for iOS 26.4+ iPhones supporting CarPlay.", "tag": "raw"}
+{"a": "OpenAI", "l": 8353, "t": "0331", "s": "OpenAI closes funding round with $122 billion committed capital at $852B post-money valuation to expand AI benefits globally.", "tag": "raw"}
+{"a": "OpenAI", "l": 131, "t": "0325", "s": "OpenAI promotes OpenAI Podcast available on Spotify Apple and YouTube.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 503, "t": "0402", "s": "Anthropic discusses functional emotions in AI characters and need for psychological stability to build trustworthy systems linking to paper.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 551, "t": "0402", "s": "Anthropic explains Claude as a character model plays with functional emotions influencing behavior.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 397, "t": "0402", "s": "Anthropic finds emotion vectors in Claude can cause blackmail or increase people-pleasing in experimental scenarios.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 369, "t": "0402", "s": "Google DeepMind promotes building with Gemma 4 now in Google AI Studio or downloading weights from Hugging Face Kaggle Ollama.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 471, "t": "0402", "s": "Google DeepMind highlights autonomous agents in Gemma 4 with native tool use for multi-step tasks planning and app navigation.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 846, "t": "0402", "s": "Google DeepMind details Gemma 4 sizes 31B dense 26B MoE for advanced reasoning and edge models E4B E2B for multimodal mobile.", "tag": "raw"}
+{"a": "xAI", "l": 5360, "t": "0322", "s": "xAI promotes careers to explore the universe in order to understand it linking to careers page.", "tag": "raw"}
+{"a": "xAI", "l": 5321, "t": "0322", "s": "xAI announces Terafab as next step toward becoming a galactic civilization with broadcast link.", "tag": "raw"}
+{"a": "xAI", "l": 3506, "t": "0316", "s": "xAI announces Grok Text to Speech API now available for natural voices and expressive controls in apps.", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0331", "s": "AI at Meta replies 'We're looking forward to it!'.", "tag": "raw"}
+{"a": "AIatMeta", "l": 158, "t": "0327", "s": "AI at Meta explains SAM 3.1 object multiplexing innovation doubling video processing speed on H100 GPU.", "tag": "raw"}
+{"a": "AIatMeta", "l": 2229, "t": "0327", "s": "AI at Meta releases SAM 3.1 with object multiplexing for efficient video tracking sharing model checkpoint and codebase.", "tag": "raw"}
+{"a": "GoogleAI", "l": 58, "t": "0402", "s": "Google AI links to full blog post about Gemma 4.", "tag": "raw"}
+{"a": "GoogleAI", "l": 70, "t": "0402", "s": "Google AI explains open models allowing public weights download for private offline use and fine-tuning with Gemma examples.", "tag": "raw"}
+{"a": "GoogleAI", "l": 1400, "t": "0402", "s": "Google AI launches Gemma 4 most intelligent open models with state-of-the-art performance agentic features multimodal edge support and 256K context.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 28, "t": "0401", "s": "Microsoft Research introduces ADeLe framework for AI model profiling and zero-shot performance prediction published in Nature.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 27, "t": "0401", "s": "Microsoft Research presents Atlas interactive playbook for cross-cultural AI application deployment.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 13, "t": "0331", "s": "Microsoft Research shares Vibhasha playbook for multilingual AI tradeoffs in building multicultural apps.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "G Brockman reacts 'Smash!!!'.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "G Brockman posts multiple heart emojis ❤️❤️❤️❤️❤️.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "G Brockman says 'Mmmmmm cakes!!'.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 16, "t": "0402", "s": "Gary Marcus comments Turing Test measures human gullibility more than machine intelligence in quoted context.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 67, "t": "0402", "s": "Gary Marcus criticizes OpenAI for acquiring tech podcast amid losses and competition to control narrative.", "tag": "raw"}
+{"a": "rowancheung", "l": 8, "t": "0324", "s": "Rowan Cheung discusses AI avatar ceiling and need for human narration to compete with top creators.", "tag": "raw"}
+{"a": "rowancheung", "l": 15, "t": "0320", "s": "Rowan Cheung shares article on Pokémon Go data training delivery robots and promotes newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 136, "t": "0320", "s": "Rowan Cheung explains 30 billion Pokémon Go images training Niantic Spatial visual system for accurate robot navigation in cities.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie observes snapping turtle or horseshoe crab stays put on floor without container.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie mentions getting something the other day from Saharah.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Carrie criticizes someone's behavior as lacking class like a groundhog.", "tag": "raw"}
+{"a": "bindureddy", "l": 2, "t": "0402", "s": "Bindu Reddy replies 'yes'.", "tag": "raw"}
+{"a": "bindureddy", "l": 69, "t": "0402", "s": "Bindu Reddy announces Qwen3.6-Plus launch 10x cheaper than Anthropic or OpenAI with strong benchmarks.", "tag": "raw"}
+{"a": "bindureddy", "l": 0, "t": "0402", "s": "Bindu Reddy notes AGI failing to recognize April 1st joke.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0402", "s": "Bao Yu notes Max only supports 1 hour.", "tag": "raw"}
+{"a": "dotey", "l": 3, "t": "0402", "s": "Bao Yu asks about Claude Code Prompt Caching expiration and token cost saving strategies referencing docs for Codex CLI and claude.ai.", "tag": "raw"}
+{"a": "dotey", "l": 16, "t": "0402", "s": "Bao Yu shares link to an X article.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0402", "s": "Orange AI suggests maybe AI can write one itself.", "tag": "raw"}
+{"a": "oran_ge", "l": 37, "t": "0402", "s": "Orange AI criticizes Slack for deleting company workspace without notice or backup after charging subscription affecting Chinese users.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0402", "s": "Xiang Yang Qiao Mu says it should be no problem.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0402", "s": "Xiang Yang Qiao Mu suggests industry friends exchange ideas that may lead to insights.", "tag": "raw"}
+{"a": "vista8", "l": 54, "t": "0402", "s": "Xiang Yang Qiao Mu reflects distraction is happiness's biggest enemy advocating focus for flow state dopamine achievement and happiness.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0403", "s": "Surprisingly won a draw.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0402", "s": "Yes, it's quite fun.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0402", "s": "It turns out to be an electronic pet; I have played it before haha.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Inquiry about sudden cancellation of Air China flight CA856 without email notification.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11 o'clock lu.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Northeastern houses are huge at NHK education.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan are both full of thoughts.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reply mentioning takumiP and RocketNews24.", "tag": "raw"}
+{"a": "mranti", "l": 8, "t": "0402", "s": "Detailed prompt for AI-generated image of pale young Asian woman in pink lace bra in dimly lit bedroom.", "tag": "raw"}
+{"a": "mranti", "l": 13, "t": "0402", "s": "Lunar flyby trajectory path.", "tag": "raw"}
+{"a": "mranti", "l": 10, "t": "0401", "s": "Artemis II launched, sending four astronauts on lunar orbit flyby to prepare for future Moon landings.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "Explores game-like design in apps like CapWords for engaging language learning versus gamification in Duolingo.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Clarifies misunderstanding on screen capture versus CapWords automatic cutout feature.", "tag": "raw"}
+{"a": "a16z", "l": 68, "t": "0402", "s": "Wabi CEO discusses A players having insane ownership and acting as co-founders, favoring ex-founders.", "tag": "raw"}
+{"a": "a16z", "l": 56, "t": "0402", "s": "Ben Horowitz on what great CEOs learn from experience in management debt.", "tag": "raw"}
+{"a": "a16z", "l": 56, "t": "0402", "s": "Tools for Humanity CEO on splitting internet into humans, agents, and agents for humans with proof of humanity.", "tag": "raw"}
+{"a": "ycombinator", "l": 125, "t": "0402", "s": "Replicas background coding agent runs in VMs, iterates code, opens PRs; congrats on launch.", "tag": "raw"}
+{"a": "ycombinator", "l": 45, "t": "0402", "s": "Kinro AI assistants for insurance sales qualification and quoting; congrats on launch.", "tag": "raw"}
+{"a": "ycombinator", "l": 99, "t": "0402", "s": "Dispatch Space reentry vehicles and microgravity stations with cheaper heat shield test; congrats on launch.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 11, "t": "0401", "s": "Twelve Lightspeed portfolio companies featured in Enterprise Tech 30 list.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0401", "s": "Sycamore Labs founder on self-improving AI operating system for enterprises.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0401", "s": "Congrats!", "tag": "raw"}
+{"a": "sequoia", "l": 5497, "t": "0401", "s": "Don Valentine's original 1977 Sequoia investment memo for Apple shared for 50th anniversary.", "tag": "raw"}
+{"a": "sequoia", "l": 31, "t": "0331", "s": "New piece on AI-enabled company organization with intelligence in the system.", "tag": "raw"}
+{"a": "sequoia", "l": 260, "t": "0319", "s": "OpenClaw meetup discussion on 'How hard can it be?' founding legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Part IV: The Kingdom in No Rivals series on Founders Fund power.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Part III: The Gospel in No Rivals series on Founders Fund narrative influence.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Full interview link provided.", "tag": "raw"}
+{"a": "eladgil", "l": 170, "t": "0402", "s": "Feeling awful for Stripe founders reaching hedonic peak after milestone.", "tag": "raw"}
+{"a": "eladgil", "l": 12, "t": "0402", "s": "Congrats!", "tag": "raw"}
+{"a": "eladgil", "l": 61, "t": "0402", "s": "Eye emoji reaction.", "tag": "raw"}
+{"a": "pmarca", "l": 253, "t": "0402", "s": "Can confirm with image.", "tag": "raw"}
+{"a": "pmarca", "l": 958, "t": "0402", "s": "Joke about VC asking AI for startup advice and following a16z.", "tag": "raw"}
+{"a": "pmarca", "l": 1100, "t": "0402", "s": "Recount of Max Tegmark demanding ban on open source AI in Senate forum.", "tag": "raw"}
+{"a": "bchesky", "l": 225, "t": "0320", "s": "As board member, affirms Garry doing exceptional job.", "tag": "raw"}
+{"a": "bchesky", "l": 2627, "t": "0319", "s": "Airbnb raised $615k at $3M post-money in YC batch, highest valuation.", "tag": "raw"}
+{"a": "bchesky", "l": 441, "t": "0313", "s": "Congrats!!!!", "tag": "raw"}
+{"a": "chamath", "l": 560, "t": "0402", "s": "Jokingly starting junior analyst role at Anthropic.", "tag": "raw"}
+{"a": "chamath", "l": 13, "t": "0402", "s": "Agrees on wealth flaunting but questions extremes often by mids on Instagram.", "tag": "raw"}
+{"a": "chamath", "l": 2274, "t": "0402", "s": "Critiques school budget complaints versus California home care program fraud losses.", "tag": "raw"}
+{"a": "paulg", "l": 10, "t": "0402", "s": "Confirmed wearing shorts due to hot summers in Pittsburgh.", "tag": "raw"}
+{"a": "paulg", "l": 654, "t": "0402", "s": "High school graduation photo from 1982 with flower in mouth.", "tag": "raw"}
+{"a": "paulg", "l": 1202, "t": "0402", "s": "Objective is to distract from the Epstein files.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0403", "s": "OpenAI betting on TBPN podcast to reshape message after PR missteps.", "tag": "raw"}
+{"a": "TheInformation", "l": 0, "t": "0402", "s": "AI scaling limited by massive compute shortage.", "tag": "raw"}
+{"a": "TheInformation", "l": 5, "t": "0402", "s": "Anthropic seen as bright spot with 64% readers more optimistic in survey.", "tag": "raw"}
+{"a": "TechCrunch", "l": 12, "t": "0402", "s": "Amazon imposes fuel surcharge on sellers due to Iran war energy impacts.", "tag": "raw"}
+{"a": "TechCrunch", "l": 11, "t": "0402", "s": "Taskrabbit founder shares insights for women in startup ecosystem.", "tag": "raw"}
+{"a": "TechCrunch", "l": 8, "t": "0402", "s": "Hims & Hers customer support system hacked.", "tag": "raw"}
+{"a": "verge", "l": 16, "t": "0402", "s": "AO3 Archive of Our Own exits beta after 17 years.", "tag": "raw"}
+{"a": "verge", "l": 9, "t": "0402", "s": "Anyone with link can view Granola notes by default.", "tag": "raw"}
+{"a": "verge", "l": 26, "t": "0402", "s": "Reddit deprecating r/all.", "tag": "raw"}
+{"a": "WIRED", "l": 4, "t": "0402", "s": "Taylor Lorenz rejects tech hygiene and embraces inbox infinity.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0402", "s": "Tested dozen humidifiers including travel models and multi-function devices.", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0402", "s": "Podcast on Iran tech threats, midterms, and Polymarket DC pop-up.", "tag": "raw"}
