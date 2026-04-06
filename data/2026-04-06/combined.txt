@@ -1,0 +1,120 @@
+{"a": "elonmusk", "l": 2957, "t": "0405", "s": "Replied 'True' to a post discussing X as the first global human media platform.", "tag": "raw"}
+{"a": "elonmusk", "l": 32618, "t": "0405", "s": "Agreed 'This is the way' with a post on X breaking cultural filter bubbles through AI translation and global fact-checking.", "tag": "raw"}
+{"a": "elonmusk", "l": 7410, "t": "0405", "s": "Commented 'Cool' on Vercel team using X for nonstop customer feedback and product shaping.", "tag": "raw"}
+{"a": "sama", "l": 4808, "t": "0402", "s": "Jokingly offered free ChatGPT Pro account, t-shirts, and joint show appearance to discuss weightlifting career failure.", "tag": "raw"}
+{"a": "sama", "l": 6304, "t": "0402", "s": "Called TBPN favorite tech show and supported it continuing without easing on OpenAI despite occasional mistakes.", "tag": "raw"}
+{"a": "sama", "l": 2387, "t": "0330", "s": "Praised blog post on state of AI safety visualized in four fake graphs.", "tag": "raw"}
+{"a": "karpathy", "l": 172, "t": "0405", "s": "Discussed growing AI activity, regretted attention costs, and suggested cheaper Read endpoints for agent legibility on X.", "tag": "raw"}
+{"a": "karpathy", "l": 1626, "t": "0405", "s": "Critiqued excessive X API pricing after project attempt, noted poor docs and missing XMCP mentions.", "tag": "raw"}
+{"a": "karpathy", "l": 384, "t": "0405", "s": "Surprised by high-quality, insightful GitHub gists comments versus X, considered gisting more.", "tag": "raw"}
+{"a": "demishassabis", "l": 16, "t": "0404", "s": "Thanked Beff Jezos for enjoying something shared.", "tag": "raw"}
+{"a": "demishassabis", "l": 419, "t": "0403", "s": "Highlighted Gemma 4 capabilities for small models and directed to follow @googlegemma.", "tag": "raw"}
+{"a": "demishassabis", "l": 2912, "t": "0403", "s": "Showed Gemma 4 outperforming models over 10x its size on log scale chart.", "tag": "raw"}
+{"a": "darioamodei", "l": 15314, "t": "0126", "s": "Shared essay 'The Adolescence of Technology' on AI risks to national security, economies, democracy and defenses.", "tag": "raw"}
+{"a": "darioamodei", "l": 2364, "t": "0126", "s": "Linked companion essay 'Machines of Loving Grace' on positive AI potential if done right.", "tag": "raw"}
+{"a": "darioamodei", "l": 6648, "t": "0126", "s": "Noted essay relevance to Minnesota events emphasizing democratic values preservation.", "tag": "raw"}
+{"a": "OpenAI", "l": 10831, "t": "0402", "s": "Announced ChatGPT voice mode now available in CarPlay for iOS 26.4+ users.", "tag": "raw"}
+{"a": "OpenAI", "l": 8402, "t": "0331", "s": "Closed funding round with $122B at $852B valuation to expand AI benefits globally.", "tag": "raw"}
+{"a": "OpenAI", "l": 133, "t": "0325", "s": "Promoted OpenAI Podcast on Spotify, Apple, and YouTube.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 169, "t": "0403", "s": "Credited Anthropic Fellows program for research on auditing AI models via feature differences.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 144, "t": "0403", "s": "Noted technique for auditing AI models by focusing on feature differences, though sometimes oversensitive.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 382, "t": "0403", "s": "Found unique 'CCP alignment' feature in Qwen versus 'American exceptionalism' in Llama via model comparison.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 655, "t": "0402", "s": "Promoted building with Gemma 4 in Google AI Studio and downloading weights from Hugging Face, Kaggle, Ollama.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 806, "t": "0402", "s": "Highlighted autonomous agents with native tool use for multi-step tasks using up to 256K context.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1336, "t": "0402", "s": "Announced Gemma 4 in four sizes including 31B Dense and Edge variants for local and mobile use.", "tag": "raw"}
+{"a": "xAI", "l": 515, "t": "0403", "s": "Announced Quality mode for Grok image generation on web and mobile with stronger world knowledge.", "tag": "raw"}
+{"a": "xAI", "l": 914, "t": "0403", "s": "Showed Quality mode examples of deeper world knowledge, realistic physics, and complex scene interpretation.", "tag": "raw"}
+{"a": "xAI", "l": 997, "t": "0403", "s": "Demonstrated improved text rendering in Quality mode for brand designs and infographics across languages.", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0331", "s": "Expressed anticipation for an upcoming event or collaboration.", "tag": "raw"}
+{"a": "AIatMeta", "l": 159, "t": "0327", "s": "Explained SAM 3.1 core innovation of object multiplexing for faster video processing of multiple objects.", "tag": "raw"}
+{"a": "AIatMeta", "l": 2231, "t": "0327", "s": "Released SAM 3.1 update with object multiplexing for efficient video tracking on accessible hardware.", "tag": "raw"}
+{"a": "GoogleAI", "l": 823, "t": "0403", "s": "Summarized weekly launches including Gemma 4, Veo 3.1 Lite, new Gemini API tiers, and Focus mode.", "tag": "raw"}
+{"a": "GoogleAI", "l": 87, "t": "0402", "s": "Directed to blog post with full details on Gemma 4 release.", "tag": "raw"}
+{"a": "GoogleAI", "l": 94, "t": "0402", "s": "Explained open models as publicly downloadable weights for private, offline use and fine-tuning on any hardware.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 32, "t": "0401", "s": "Introduced ADeLe framework for predicting AI model performance on unseen tasks, published in Nature.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 29, "t": "0401", "s": "Shared Atlas interactive playbook for cross-cultural AI application deployment.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 14, "t": "0331", "s": "Presented Vibhasha playbook for building multilingual AI apps and handling tradeoffs.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Exclaimed 'Smash!!!' in reply.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "Posted multiple heart emojis in reply.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Commented 'Mmmmmm cakes!!' in reply.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 91, "t": "0405", "s": "Critiqued NYT puff piece on Medvi company and linked alternative perspective Substack post.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0405", "s": "Acknowledged AI uses but doubted net societal benefit.", "tag": "raw"}
+{"a": "rowancheung", "l": 17, "t": "0403", "s": "Shared link to LATENT research breakdown and promoted daily AI newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 132, "t": "0403", "s": "Highlighted robot learning tennis from amateur clips, calling it insane progress.", "tag": "raw"}
+{"a": "rowancheung", "l": 8, "t": "0324", "s": "Noted avatar ceiling for content creators versus human narration for top-tier competition.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Described snapping turtle and horseshoe crab behavior when placed on floor.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Mentioned receiving item from Saharah recently.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Critiqued someone's class in a humorous comparison to a groundhog.", "tag": "raw"}
+{"a": "bindureddy", "l": 74, "t": "0405", "s": "Warned AI automation costs growing exponentially and urged performant small models for nuance and tool use.", "tag": "raw"}
+{"a": "bindureddy", "l": 2, "t": "0405", "s": "Posted sad face emoji.", "tag": "raw"}
+{"a": "bindureddy", "l": 1, "t": "0405", "s": "Agreed on oil dependency in current moment while discussing alternatives.", "tag": "raw"}
+{"a": "dotey", "l": 5, "t": "0405", "s": "Shared active fork link for Claude Island repo and thanked for supplement info.", "tag": "raw"}
+{"a": "dotey", "l": 9, "t": "0405", "s": "Quoted and highlighted points on poor context management in OpenClaw harness wasting tokens.", "tag": "raw"}
+{"a": "dotey", "l": 196, "t": "0405", "s": "Translated and summarized Luo Fuli's analysis on Anthropic cutting third-party harnesses and MiMo Token Plan.", "tag": "raw"}
+{"a": "oran_ge", "l": 1, "t": "0405", "s": "Called Apple cool in reply with image.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0405", "s": "Praised the strength of something Apple-related and lauded the leader.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0405", "s": "Noted trying many personas and finding one most comfortable.", "tag": "raw"}
+{"a": "vista8", "l": 58, "t": "0405", "s": "Shared long reflection post by Long Gong Huo Huo on entrepreneurship, traffic, IP, and team lessons.", "tag": "raw"}
+{"a": "vista8", "l": 4, "t": "0405", "s": "Laughed and praised big brother style in reply.", "tag": "raw"}
+{"a": "vista8", "l": 31, "t": "0405", "s": "Commented on men's vs women's purchasing power in hobbies versus industries, referencing prior post.", "tag": "raw"}
+{"a": "Sxsyer", "l": 2, "t": "0404", "s": "Greeted with 'Hi 👋'.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0404", "s": "Clarified AI takes tasks not jobs and emphasized rewriting workflows for competitiveness.", "tag": "raw"}
+{"a": "Sxsyer", "l": 1, "t": "0404", "s": "Greeted with 'Heeeey 👋'.", "tag": "raw"}
+{"a": "tualatrix", "l": 6, "t": "0405", "s": "Daily sightings of Anthropic's creative account bans. A user's Claude Max account was banned simultaneously with a $100 renewal, resulting in loss of access and payment.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0405", "s": "My third Plus account entered cooldown. Time to rest again. My agent has a long way before it can operate as autonomously as possible.", "tag": "raw"}
+{"a": "tualatrix", "l": 2, "t": "0405", "s": "It's Apple clothing from last June at Apple Park. Daughter now wears it as a little apple. Previously shared once.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Air China flight CA856 suddenly cancelled without email update. Discovered via Heathrow Airport. Requesting options for seat on future flight or full refund.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "It's 11 o'clock lu.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "The houses in Tohoku are so big... watching NHK Education.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Both Twitter and 2chan are filled with various opinions.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Nostradamus dam... (playful reply to @takumiP and @RocketNews24).", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0405", "s": "Will all previously published articles disappear?", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0405", "s": "Ollama is free but limited in capacity.", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0405", "s": "Yes, so we must use it as much as possible.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "App designs increasingly incorporate game-like experiences to engage users intrinsically, like CapWords for language learning via collecting words, unlike gamification's external rewards in Duolingo.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "You still don't understand the obstacle. This approach requires capturing the entire screen and identifying all elements first, abandoning CapWords' key auto-crop and recognition features.", "tag": "raw"}
+{"a": "a16z", "l": 296, "t": "0404", "s": "Marc Andreessen advises against seeking diamonds in the rough for investments, calling it an investor ego issue. Smart VCs already find worthy opportunities; rough diamonds often signal fundamental problems.", "tag": "raw"}
+{"a": "a16z", "l": 1018, "t": "0403", "s": "Marc Andreessen predicts the grand unification of AI and crypto. AI agents will need bank accounts and credit cards to spend money, as seen with OpenClaw users.", "tag": "raw"}
+{"a": "a16z", "l": 367, "t": "0403", "s": "Marc Andreessen foresees no traditional programming languages or UIs in 10 years. Users will simply tell AI what they need, and it will optimize the solution.", "tag": "raw"}
+{"a": "ycombinator", "l": 5, "t": "0403", "s": "YC launch: Complir helps large retailers remove compliance bottlenecks for global product launches.", "tag": "raw"}
+{"a": "ycombinator", "l": 177, "t": "0403", "s": "Complir builds AI infrastructure automating global product compliance for retailers, mapping requirements, generating docs, and handling changes. Managing 100k+ products in Europe, growing 45% MoM.", "tag": "raw"}
+{"a": "ycombinator", "l": 25, "t": "0403", "s": "Congratulations!", "tag": "raw"}
+{"a": "lightspeedvp", "l": 5, "t": "0403", "s": "Lightspeed hosted Women in Leadership event at Salesforce Tower discussing AI evolution. Featured panel with partner Anoushka Vaswani on AI landscape.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 13, "t": "0401", "s": "12 Lightspeed portfolio companies named to Enterprise Tech 30 list, including Anduril, Anthropic, Databricks, Stripe, and others.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0401", "s": "No enterprise software runs the same twice at Sycamore Labs. Their AI agent operating system updates and improves itself dynamically with each run.", "tag": "raw"}
+{"a": "sequoia", "l": 5811, "t": "0401", "s": "In honor of Apple's 50th anniversary, Sequoia shares Don Valentine's original 1977 investment memo for Apple Computer for the first time.", "tag": "raw"}
+{"a": "sequoia", "l": 31, "t": "0331", "s": "In conventional companies, intelligence lives in people and hierarchy routes it. In the new model, intelligence lives in the system with people as the edge.", "tag": "raw"}
+{"a": "sequoia", "l": 259, "t": "0319", "s": "At OpenClaw meetup, discussion on the founding question behind many legendary companies: How hard can it be?", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Part IV of No Rivals: The Kingdom, examining Founders Fund's power across Silicon Valley, Pentagon, and White House, with in-depth performance analysis.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Part III of No Rivals: The Gospel, on Founders Fund as narrative agent exerting influence in Silicon Valley through provocative initiatives.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Full interview: https://www.youtube.com/watch?v=wP2zcESIpOo", "tag": "raw"}
+{"a": "eladgil", "l": 39, "t": "0404", "s": "Going to compare AI insights versus X crowd insights on the best Aperol Spritz in NYC.", "tag": "raw"}
+{"a": "eladgil", "l": 14, "t": "0403", "s": "Discussion on AI foundation model for atoms with Liam Fedus, CEO of Periodic Labs and former VP Post Training at OpenAI.", "tag": "raw"}
+{"a": "eladgil", "l": 1070, "t": "0403", "s": "Staying power matters in careers just as in startups. If in the right seat, better to stay and compound rather than keep jumping.", "tag": "raw"}
+{"a": "pmarca", "l": 10412, "t": "0405", "s": "I have never been so bullish on the United States of America.", "tag": "raw"}
+{"a": "pmarca", "l": 3692, "t": "0405", "s": "I'm calling it. AGI is already here – it's just not evenly distributed yet.", "tag": "raw"}
+{"a": "pmarca", "l": 318, "t": "0405", "s": "Compare developed nations rapidly adopting tech/AI (USA) versus those that don't. Rapid adoption leads to jobs boom; delay leads to decline.", "tag": "raw"}
+{"a": "bchesky", "l": 195, "t": "0404", "s": "The idea behind combining product marketing and product management roles, ensuring CEO involvement. Biggest shortfall when marketing isn't involved from product conception.", "tag": "raw"}
+{"a": "bchesky", "l": 998, "t": "0403", "s": "We follow the model where product management and product marketing are one job, with cohesive story from the beginning.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "As one of the other board members, I can say that Garry is doing an exceptional job.", "tag": "raw"}
+{"a": "chamath", "l": 5, "t": "0405", "s": "Why QMD?", "tag": "raw"}
+{"a": "chamath", "l": 4, "t": "0405", "s": "How?", "tag": "raw"}
+{"a": "chamath", "l": 8, "t": "0405", "s": "How do you know a chat was updated?", "tag": "raw"}
+{"a": "paulg", "l": 10, "t": "0405", "s": "Wow, depth!", "tag": "raw"}
+{"a": "paulg", "l": 226, "t": "0405", "s": "What you observed was the power of GLAAD, who shifted to this cause after their original victory left them needing a new fight.", "tag": "raw"}
+{"a": "paulg", "l": 220, "t": "0405", "s": "There are reasonable cases for venture debt, but this is not one. When it goes wrong, it's among the most unfixable startup disasters.", "tag": "raw"}
+{"a": "TheInformation", "l": 6, "t": "0405", "s": "Exclusive: OpenAI's CFO privately voiced concerns about CEO Sam Altman's ambitious IPO timing and some cloud deals.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0405", "s": "Meta, Salesforce and Microsoft are losing investor confidence, while Anthropic and Nvidia defy the broader tech gloom in sentiment.", "tag": "raw"}
+{"a": "TheInformation", "l": 3, "t": "0405", "s": "How will SpaceX do six months after IPO? It may start a new economy and frontier that other companies build upon.", "tag": "raw"}
+{"a": "TechCrunch", "l": 14, "t": "0405", "s": "Polymarket removed wagers tied to the rescue of a downed Air Force officer.", "tag": "raw"}
+{"a": "TechCrunch", "l": 6, "t": "0405", "s": "As a founder, build diversity from the start. Taskrabbit founder shares tips on avoiding weaker teams from procrastination.", "tag": "raw"}
+{"a": "TechCrunch", "l": 53, "t": "0405", "s": "Copilot is 'for entertainment purposes only' according to Microsoft's terms of service.", "tag": "raw"}
+{"a": "verge", "l": 7, "t": "0405", "s": "Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s Pitchfork favorite.", "tag": "raw"}
+{"a": "verge", "l": 75, "t": "0405", "s": "Suno creates a music copyright nightmare with AI-generated covers.", "tag": "raw"}
+{"a": "verge", "l": 29, "t": "0405", "s": "I let Gemini in Google Maps plan my day and it went surprisingly well.", "tag": "raw"}
+{"a": "WIRED", "l": 37, "t": "0405", "s": "Tech giants like Apple, Google, and Microsoft are on Iran's Islamic Revolutionary Guard Corps target list for attacks starting April 1.", "tag": "raw"}
+{"a": "WIRED", "l": 0, "t": "0405", "s": "After 6-plus years testing, roundup of the best Apple Watch bands plus honorable mentions.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0405", "s": "Apple Watch bands are an easy way to switch aesthetics. After 6+ years testing, best ones plus honorable mentions.", "tag": "raw"}
