@@ -1,0 +1,118 @@
+{"a": "tualatrix", "l": 0, "t": "0406", "s": "I've gotten used to rough, unfinished software and hardware setups. 🤣", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0406", "s": "Last month GPT Pro exhausted me. Now preparing three Plus accounts to slow down and get used before upgrading to Pro.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0406", "s": "Agreed. Only after exhausting all five accounts would I consider upgrading to Pro.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Questioning Air China about sudden cancellation of flight CA856 without email notification. Asking for options like future seat or full refund from Heathrow Airport.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Posting '11 o'clock lu' which may indicate a time or local slang.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Commenting that houses in Tohoku are huge while watching NHK education channel.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reflecting that both Twitter and 2chan are filled with personal thoughts and opinions.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reacting with surprised exclamation to a mention of takumiP and RocketNews24.", "tag": "raw"}
+{"a": "mranti", "l": 5, "t": "0406", "s": "It seems Doubao AI can handle voice input at a volume close to lip-sync whispering.", "tag": "raw"}
+{"a": "mranti", "l": 10, "t": "0406", "s": "This appears to be a DDoS attack on the 'stove mouth' or server endpoint.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0406", "s": "This is the first time. Previously no sudo was needed. Upgrading with the beta version worked without issues later.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "Discussing game-like design in apps using CapWords for language learning, contrasting it with gamification in Duolingo and suitability of Anki. Emphasizes intrinsic motivation through collection and fun.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Explaining that the suggested operation misses CapWords' key auto-crop and recognition features, requiring manual full-screen capture instead.", "tag": "raw"}
+{"a": "a16z", "l": 155, "t": "0406", "s": "Sharing a 2007 Roblox homepage image alongside a Stanford Startup Job Fair photo from the same era.", "tag": "raw"}
+{"a": "a16z", "l": 183, "t": "0406", "s": "Discussing post-AI work future with Peter Yang: AI creating solopreneurs, agents killing apps, coding agents, and impacts on teams and economy.", "tag": "raw"}
+{"a": "a16z", "l": 2230, "t": "0406", "s": "Announcing a return to the moon with accompanying video.", "tag": "raw"}
+{"a": "ycombinator", "l": 302, "t": "0406", "s": "Announcing Demis Hassabis of Google DeepMind for YC fireside chat, keynote on Gemini/Gemma, demos, and meet-and-greet.", "tag": "raw"}
+{"a": "ycombinator", "l": 545, "t": "0406", "s": "Welcoming Harshita Arora as YC's newest General Partner, highlighting her background as founder of AtoB (YC S20).", "tag": "raw"}
+{"a": "ycombinator", "l": 5, "t": "0406", "s": "Inviting viewers to tune in to a YouTube video.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 6, "t": "0403", "s": "Recapping a Women in Leadership event hosted by Salesforce's Robin Washington on AI evolution, with Lightspeed participation.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 14, "t": "0401", "s": "Celebrating 12 Lightspeed portfolio companies making the Enterprise Tech 30 list.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 18, "t": "0401", "s": "Highlighting Sycamore Labs' dynamic AI operating system that improves itself with each enterprise run, from The Investment Memo podcast.", "tag": "raw"}
+{"a": "sequoia", "l": 5821, "t": "0401", "s": "Releasing for the first time Don Valentine's original 1977 investment memo into Apple Computer, honoring Apple's 50 years.", "tag": "raw"}
+{"a": "sequoia", "l": 31, "t": "0331", "s": "Sharing a piece on how AI enables a new information architecture for companies beyond hierarchy.", "tag": "raw"}
+{"a": "sequoia", "l": 259, "t": "0319", "s": "Featuring a discussion at OpenClaw meetup on the question 'How hard can it be?' behind legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Sharing Part IV of a series examining Founders Fund's influence across Silicon Valley, Pentagon, and White House.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Highlighting Part III on Founders Fund as a narrative agent spreading its gospel in Silicon Valley.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Providing link to full interview video.", "tag": "raw"}
+{"a": "eladgil", "l": 158, "t": "0406", "s": "Enjoying a fun conversation with insights from Sundar Pichai and John Collison on Cheeky Pint.", "tag": "raw"}
+{"a": "eladgil", "l": 37, "t": "0404", "s": "Comparing AI-generated insights with X crowd wisdom by asking for the best Aperol Spritz in NYC.", "tag": "raw"}
+{"a": "pmarca", "l": 489, "t": "0406", "s": "Quoting an overheard remark in Silicon Valley about companies achieving market or investor fit.", "tag": "raw"}
+{"a": "pmarca", "l": 2115, "t": "0406", "s": "Labeling something as the top doomer, accompanied by an image.", "tag": "raw"}
+{"a": "pmarca", "l": 602, "t": "0406", "s": "Stating it's time to solve crime in response to a shared article.", "tag": "raw"}
+{"a": "bchesky", "l": 196, "t": "0404", "s": "Explaining the idea of combining product marketing and management roles, with CEO involvement from the start.", "tag": "raw"}
+{"a": "bchesky", "l": 1003, "t": "0403", "s": "Agreeing with Tony Fadell that product management and marketing should be one cohesive role, as practiced at Airbnb.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "Stating as a board member that Garry is doing an exceptional job.", "tag": "raw"}
+{"a": "chamath", "l": 3, "t": "0406", "s": "Expressing willingness to be in any trench with Jason.", "tag": "raw"}
+{"a": "chamath", "l": 17, "t": "0406", "s": "Agreeing with a previous statement.", "tag": "raw"}
+{"a": "chamath", "l": 645, "t": "0406", "s": "Noting investment in top secondary shares and viewing secondary markets as effective for correcting past investment mistakes.", "tag": "raw"}
+{"a": "paulg", "l": 3, "t": "0406", "s": "Jokingly accusing someone of overusing titles like in Big Bang Theory's Wolowitz.", "tag": "raw"}
+{"a": "paulg", "l": 9, "t": "0406", "s": "Admitting uncertainty but committing to figure it out in three weeks.", "tag": "raw"}
+{"a": "paulg", "l": 3954, "t": "0406", "s": "Arguing that opponents of Trump are supporting America by opposing harm to its interests and principles.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0407", "s": "Reporting a $100 million T-Mobile deal highlighting early stage of Starlink Mobile as SpaceX prepares for IPO.", "tag": "raw"}
+{"a": "TheInformation", "l": 4, "t": "0406", "s": "Featuring explanation by Rex Woodbury on why brand serves as a moat through first impressions with customers, talent, and investors.", "tag": "raw"}
+{"a": "TheInformation", "l": 9, "t": "0406", "s": "Revealing OpenAI CFO questions revenue support for massive AI infrastructure spend, complicating IPO timing.", "tag": "raw"}
+{"a": "TechCrunch", "l": 47, "t": "0406", "s": "Reporting OpenAI alumni quietly investing from a new potentially $100M fund.", "tag": "raw"}
+{"a": "TechCrunch", "l": 7, "t": "0406", "s": "Announcing a surprise sale for TechCrunch Disrupt tickets, saving up to $482 until April 10.", "tag": "raw"}
+{"a": "TechCrunch", "l": 13, "t": "0406", "s": "Analyzing factors beyond gas prices driving increased used EV sales.", "tag": "raw"}
+{"a": "verge", "l": 69, "t": "0406", "s": "Reporting Wisconsin governor vetoing age verification for porn sites.", "tag": "raw"}
+{"a": "verge", "l": 28, "t": "0406", "s": "Covering Artemis II astronauts setting a distance record and naming a crater.", "tag": "raw"}
+{"a": "verge", "l": 8, "t": "0406", "s": "Reviewing DJI Mic Mini for clear on-the-go audio now on sale for $60.", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0406", "s": "Examining the Gulf's desalination system resilience, built with backups but reliant on continuous operation.", "tag": "raw"}
+{"a": "WIRED", "l": 1, "t": "0406", "s": "Reviewing the pricey yet impressive Gozney Dome Gen 2 pizza oven for best homemade pizza.", "tag": "raw"}
+{"a": "WIRED", "l": 74, "t": "0406", "s": "Investigating nonprofits at US Border Patrol stations selling operation-themed coins with controversial phrases, possibly violating rules.", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0406", "s": "My AI is monitoring 40,000 people and 8,300 companies on X with analysis available at alignednews.com/ai.", "tag": "raw"}
+{"a": "Scobleizer", "l": 0, "t": "0406", "s": "Wild. Sigh.", "tag": "raw"}
+{"a": "Scobleizer", "l": 0, "t": "0406", "s": "Defending that AI can read 20,000 posts daily and produce better analysis than most humans.", "tag": "raw"}
+{"a": "bentossell", "l": 2, "t": "0406", "s": "huge, congrats", "tag": "raw"}
+{"a": "bentossell", "l": 2, "t": "0404", "s": "congrats!!", "tag": "raw"}
+{"a": "bentossell", "l": 3, "t": "0403", "s": "Huge congrats to Lee and family!", "tag": "raw"}
+{"a": "HuggingFace", "l": 4, "t": "0406", "s": "Four diamond emojis.", "tag": "raw"}
+{"a": "HuggingFace", "l": 972, "t": "0404", "s": "Command line example to run llama.cpp server with Hugging Face GGUF model ggml-org/gemma-4-26b-a4b-it-GGUF using openclaw onboard.", "tag": "raw"}
+{"a": "HuggingFace", "l": 14, "t": "0402", "s": "Media post with attached photo.", "tag": "raw"}
+{"a": "MistralAI", "l": 150, "t": "0326", "s": "Blog post details on Voxtral TTS at mistral.ai/news/voxtral-tts.", "tag": "raw"}
+{"a": "MistralAI", "l": 197, "t": "0326", "s": "Experiment with Voxtral TTS in Mistral Studio playground by selecting voices or recording your own.", "tag": "raw"}
+{"a": "MistralAI", "l": 133, "t": "0326", "s": "Voxtral TTS achieves state-of-the-art performance, outperforming ElevenLabs v2.5 Flash in zero-shot custom voice tests for naturalness, accent, and similarity.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 175, "t": "0402", "s": "Read more about Perplexity Computer for Taxes feature.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 4268, "t": "0402", "s": "Perplexity Computer now assists with preparing federal tax returns via 'Navigate my taxes' feature.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 74, "t": "0331", "s": "Secure Intelligence Institute's first paper responds to NIST on securing autonomous agents, available on arXiv.", "tag": "raw"}
+{"a": "GroqInc", "l": 321, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 8, "t": "0216", "s": "GroqCloud expanding to meet demand, learn more at groq.com blog.", "tag": "raw"}
+{"a": "GroqInc", "l": 42, "t": "0216", "s": "GroqCloud scales to over 3.5 million developers with new UK Equinix data center for low-latency inference in Europe.", "tag": "raw"}
+{"a": "Cohere", "l": 3, "t": "0403", "s": "Register for Microsoft event at developer.microsoft.com/reactor/events/26836.", "tag": "raw"}
+{"a": "Cohere", "l": 18, "t": "0403", "s": "Cohere joins Microsoft's Model Mondays on April 6th to discuss AI for enterprise value, insights, and Azure integration.", "tag": "raw"}
+{"a": "Cohere", "l": 3, "t": "0401", "s": "Learn more about ensemble Cohere custom healthcare LLM for RCM at cohere.com blog.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 1, "t": "0405", "s": "Shared article link: https://x.com/i/article/2040592060479098880", "tag": "raw"}
+{"a": "TogetherCompute", "l": 3, "t": "0403", "s": "Blog, paper, and code on using LLMs to optimize database query execution.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 33, "t": "0403", "s": "Together Research shows LLMs improve database query plans up to 4.78x faster on TPC-H/TPC-DS benchmarks.", "tag": "raw"}
+{"a": "runwayml", "l": 29, "t": "0406", "s": "Try the Ad Concepter App today at app.runwayml.com.", "tag": "raw"}
+{"a": "runwayml", "l": 49, "t": "0406", "s": "Ad concept description: A red luggage takes its own journey around the world after being left at the airport.", "tag": "raw"}
+{"a": "runwayml", "l": 451, "t": "0406", "s": "Runaway Luggage short brand film created with Ad Concepter App using two input images and idea description.", "tag": "raw"}
+{"a": "Midjourney", "l": 23, "t": "0401", "s": "Midjourney Office Hours for April 1 with space link.", "tag": "raw"}
+{"a": "Midjourney", "l": 5, "t": "0324", "s": "256 tokens equate to about 256 words, quite long for an image description.", "tag": "raw"}
+{"a": "StabilityAI", "l": 12, "t": "0402", "s": "Stability AI CEO explains the Storyteller’s Gap and how AI bridges it to empower storytelling, referencing TED talk.", "tag": "raw"}
+{"a": "StabilityAI", "l": 30, "t": "0210", "s": "Safer Internet Day 2026 message on supporting people with AI changes in online safety.", "tag": "raw"}
+{"a": "Scale_AI", "l": 22, "t": "0402", "s": "Scale AI thesis on securing America's decision advantage in agentic warfare.", "tag": "raw"}
+{"a": "Scale_AI", "l": 62, "t": "0402", "s": "Scale AI supports DeptofWar Golden Dome for America using agentic AI for decision advantage.", "tag": "raw"}
+{"a": "Scale_AI", "l": 2, "t": "0331", "s": "More information on Dialect at scale.com blog.", "tag": "raw"}
+{"a": "tenstorrent", "l": 1, "t": "0319", "s": "Stay tuned.", "tag": "raw"}
+{"a": "tenstorrent", "l": 11, "t": "0317", "s": "TT-QuietBox 2 weighs about 20 kg with 2 p300c cards containing 4 Blackhole ASICs total.", "tag": "raw"}
+{"a": "tenstorrent", "l": 44, "t": "0317", "s": "TT-QuietBox 2 coming soon for local AI demand after GDC. Join waitlist at tenstorrent.com.", "tag": "raw"}
+{"a": "weights_biases", "l": 53, "t": "0327", "s": "Tmux + wandb Leet allows Claude to see exactly what you see. Credit to @bibek_poudel_.", "tag": "raw"}
+{"a": "weights_biases", "l": 5, "t": "0320", "s": "Taking emotional support graphs to go. Credit to @sir_untamable.", "tag": "raw"}
+{"a": "weights_biases", "l": 3, "t": "0311", "s": "Referring to Andrej Karpathy's old Tumblr on loss functions as the holy grail.", "tag": "raw"}
+{"a": "llama_index", "l": 21, "t": "0403", "s": "LlamaIndex hosted community event at new San Francisco office with AI community, spritzes, and Reggie Watts performance.", "tag": "raw"}
+{"a": "llama_index", "l": 57, "t": "0402", "s": "Introducing Extract v2 with simplified tiers, pre-saved configs, and configurable document parsing for better document extraction.", "tag": "raw"}
+{"a": "llama_index", "l": 10, "t": "0401", "s": "LlamaIndex sponsors Stanford Law FutureLaw Week 2026 exploring legal AI.", "tag": "raw"}
+{"a": "supabase", "l": 122, "t": "0406", "s": "Supabase edge functions now deployable with Terraform.", "tag": "raw"}
+{"a": "supabase", "l": 520, "t": "0404", "s": "Supabase documentation now accessible over SSH for AI agents.", "tag": "raw"}
+{"a": "supabase", "l": 69, "t": "0403", "s": "Happy Friday.", "tag": "raw"}
+{"a": "vllm_project", "l": 100, "t": "0405", "s": "vLLM collaborates with TorchSpec to adopt EAGLE3 draft model for Kimi 2.5 low-latency inference.", "tag": "raw"}
+{"a": "vllm_project", "l": 30, "t": "0404", "s": "vLLM v0.7.3 release adds support for new hardware like NVIDIA B300, AMD ROCm, Intel XPU, and models including Gemma 4.", "tag": "raw"}
+{"a": "vllm_project", "l": 27, "t": "0404", "s": "vLLM engine improvements include zero-bubble async scheduling with speculative decoding, Model Runner V2, and more.", "tag": "raw"}
+{"a": "nvidia", "l": 1, "t": "0406", "s": "Green heart emoji.", "tag": "raw"}
+{"a": "nvidia", "l": 766, "t": "0403", "s": "NVIDIA achieves the world's lowest cost per token through architecture excellence and co-design for superior AI economics.", "tag": "raw"}
+{"a": "nvidia", "l": 40, "t": "0402", "s": "Link to NVIDIA AI inference solutions.", "tag": "raw"}
+{"a": "AMD", "l": 112, "t": "0406", "s": "AMD advances FP64 performance with upcoming Instinct MI430X GPU powering Oak Ridge's Discovery supercomputer in 2028.", "tag": "raw"}
+{"a": "AMD", "l": 0, "t": "0406", "s": "AMD support response directing to online service request form.", "tag": "raw"}
+{"a": "AMD", "l": 132, "t": "0405", "s": "EETimes highlights AMD's physical AI approach scaling from data centers to edge processors for robots and vehicles.", "tag": "raw"}
+{"a": "Intel", "l": 0, "t": "0402", "s": "Congrats to Aisha and HPE team.", "tag": "raw"}
+{"a": "Intel", "l": 11, "t": "0402", "s": "Poll or discussion on choosing among landmark Intel CPUs.", "tag": "raw"}
+{"a": "Intel", "l": 6, "t": "0402", "s": "Welcome Aparna to the Intel team.", "tag": "raw"}
+{"a": "SKhynix", "l": 42, "t": "0406", "s": "SK hynix explains TSV technology for 16 stacked chips communicating via thousands of vertical pathways.", "tag": "raw"}
+{"a": "SKhynix", "l": 5, "t": "0406", "s": "SK hynix VP Hanul Park on engineering the AI era with hub expansions like Indiana fab.", "tag": "raw"}
+{"a": "SKhynix", "l": 10, "t": "0401", "s": "SK hynix recognized as one of World’s Most Ethical Companies for second consecutive year.", "tag": "raw"}
