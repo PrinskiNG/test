@@ -1,0 +1,118 @@
+{"a": "elonmusk", "l": 72738, "t": "0408", "s": "Only a few hundred Tesla Model S & X cars left in inventory. Order now if you want one.", "tag": "raw"}
+{"a": "elonmusk", "l": 3760, "t": "0408", "s": "😂", "tag": "raw"}
+{"a": "elonmusk", "l": 42071, "t": "0408", "s": "Banger 😂", "tag": "raw"}
+{"a": "sama", "l": 25249, "t": "0407", "s": "To celebrate 3 million weekly codex users, we are resetting usage limits. We will do this every million users up to 10 million. Happy building!", "tag": "raw"}
+{"a": "sama", "l": 4819, "t": "0402", "s": "We can offer you a free chatgpt pro account, two openai tshirts of your choice, and you have to have max and me on the show together to discuss what went wrong in your weighlifting career.", "tag": "raw"}
+{"a": "sama", "l": 6376, "t": "0402", "s": "TBPN is my favorite tech show. We want them to keep that going and for them to do what they do so well. I don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.", "tag": "raw"}
+{"a": "karpathy", "l": 1432, "t": "0406", "s": "The core idea allows skipping writing but not reading and thinking, and it surprisingly works. Users process files by reading content, summary, and LLM opinion on wiki fit and new insights. Flexible per document.", "tag": "raw"}
+{"a": "karpathy", "l": 276, "t": "0405", "s": "sounds great. The AI activity has been growing out of control and I feel more regretted attention, possibly the Read endpoints can be a lot cheaper but the Write endpoints a lot more expensive (?). (and to clarify the project I mentioned was all read, no write.). I do think X has a large amount of valuable information and making the platform more legible to agents (Read, not Write!) could be really valuable, ty.", "tag": "raw"}
+{"a": "karpathy", "l": 2382, "t": "0405", "s": "I think it's a good direction (for Read endpoints, not for Write), I tried to use it for a project ~2 weeks ago but about 30 minutes of hacking around cost me $200, the pricing is imo really excessive. The docs were hard to ingest into agents because it's a lot of individual short pages, I think a big intro markdown doc, or a few of them behind simple curl locations. Also, the current version of docs seems to have no mention of XMCP? Or at least the Search / Grok Assistant seems to say there are 0 mentions of such a thing anywhere in the docs.", "tag": "raw"}
+{"a": "demishassabis", "l": 446, "t": "0408", "s": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science & medicine. Appreciated our discussion on the incredible talent & potential for deep tech here in the UK. Thanks for the kind words and for having me on!", "tag": "raw"}
+{"a": "demishassabis", "l": 1061, "t": "0408", "s": "Thanks for the great conversation @cleoabram (and some competitive Jenga)! Really enjoyed talking about all the amazing ways AI is helping to advance science & the incredible future it will enable!", "tag": "raw"}
+{"a": "demishassabis", "l": 119, "t": "0406", "s": "Looking forward to it @garrytan @ycombinator - thanks for inviting me!", "tag": "raw"}
+{"a": "darioamodei", "l": 772, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models, but it won’t be the last. If we are able to collectively rise to the challenge and confront this risk, it could serve as a blueprint for addressing the even more difficult challenges that lie ahead of us.", "tag": "raw"}
+{"a": "darioamodei", "l": 940, "t": "0407", "s": "The dangers of getting this wrong are obvious, but if we get it right, there is a real opportunity to create a fundamentally more secure internet and world than we had before the advent of AI-powered cyber capabilities.", "tag": "raw"}
+{"a": "darioamodei", "l": 448, "t": "0407", "s": "Glasswing is just the first step: patching and securing the world’s software infrastructure will be the work of months and years, and will require even broader cooperation across AI companies, cyberdefenders, software providers, governments, and more.", "tag": "raw"}
+{"a": "OpenAI", "l": 2595, "t": "0406", "s": "Introducing the OpenAI Safety Fellowship, a new program supporting independent research on AI safety and alignment—and the next generation of talent. https://openai.com/index/introducing-openai-safety-fellowship/", "tag": "raw"}
+{"a": "OpenAI", "l": 10908, "t": "0402", "s": "ChatGPT is now available in CarPlay. The voice mode you know, now available on-the-go. Rolling out to iPhone users running iOS 26.4+ where CarPlay is supported.", "tag": "raw"}
+{"a": "OpenAI", "l": 8410, "t": "0331", "s": "Today, we closed our latest funding round with $122 billion in committed capital at an $852B post-money valuation. The fastest way to expand AI’s benefits is to put useful intelligence in people’s hands early and let access compound globally. This funding gives us resources to lead at scale.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2092, "t": "0408", "s": "New on the Engineering Blog: Building Managed Agents—our hosted service for long-running agents—meant solving an old problem in computing: how to design a system for “programs as yet unthought of.” Read more: https://www.anthropic.com/engineering/managed-agents", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2273, "t": "0407", "s": "The Claude Mythos Preview system card is available here: https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf", "tag": "raw"}
+{"a": "AnthropicAI", "l": 1575, "t": "0407", "s": "You can read a detailed technical report on the software vulnerabilities and exploits discovered by Claude Mythos Preview here: https://red.anthropic.com/2026/mythos-preview", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 660, "t": "0402", "s": "Start building with Gemma 4 now in @GoogleAIStudio. You can also download the model weights from @HuggingFace, @Kaggle, or @Ollama. Find out more → https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 823, "t": "0402", "s": "Build autonomous agents that plan, navigate apps, and execute multi-step tasks – like searching databases or triggering APIs – with native tool use. With up to 256K context, it can analyze full codebases and retain complex action histories without losing focus.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1342, "t": "0402", "s": "Available in four sizes: 🔵 31B Dense & 26B MoE: state-of-the-art performance for advanced local reasoning tasks – like custom coding assistants or analyzing scientific datasets. 🔵 E4B & E2B (Edge): built for mobile with real-time text, vision, and audio processing.", "tag": "raw"}
+{"a": "xAI", "l": 546, "t": "0403", "s": "On web and mobile, you can try Quality mode by selecting it in the prompt bar. Our previous model will still be available when you select Speed. Share your images, tag @imagine, and let us know what you think. We read all your replies. Try it now: https://grok.com/imagine", "tag": "raw"}
+{"a": "xAI", "l": 973, "t": "0403", "s": "Deeper World Knowledge Quality mode features dramatically stronger world knowledge and prompt understanding. It accurately interprets complex scenes, realistic physics, object relationships, specific references (brands, locations, culture), and detailed fictional or artistic worlds with precision. (whiteboard by @venturetwins)", "tag": "raw"}
+{"a": "xAI", "l": 1039, "t": "0403", "s": "Stronger Text Rendering Our new model renders text with improved accuracy in many languages. Use Quality mode for brand designs, infographics, or text anywhere in the real world. (cake by @venturetwins)", "tag": "raw"}
+{"a": "AIatMeta", "l": 0, "t": "0408", "s": "One step at a time, excited about the future! 🚀", "tag": "raw"}
+{"a": "AIatMeta", "l": 41, "t": "0408", "s": "With Muse Spark, we are on a predictable and efficient scaling trajectory. We look forward to sharing increasingly capable models on the path to personal superintelligence soon.", "tag": "raw"}
+{"a": "AIatMeta", "l": 46, "t": "0408", "s": "To spend more test-time reasoning without drastically increasing latency, we can scale the number of parallel agents that collaborate to solve hard problems. While standard test-time scaling has a single agent think for longer, scaling Muse Spark with multi-agent thinking enables superior performance with comparable latency.", "tag": "raw"}
+{"a": "GoogleAI", "l": 19, "t": "0407", "s": "And if you'd rather watch on YouTube, here’s the link: https://www.youtube.com/watch?v=tYhgWRJeYzs", "tag": "raw"}
+{"a": "GoogleAI", "l": 184, "t": "0407", "s": "Curious about vibe coding? Or are you already shipping apps and just want an easier way to explain your new favorite hobby to your friends, parents, grandparents, etc.? Either way, this video is for you ⏯️⤵️", "tag": "raw"}
+{"a": "GoogleAI", "l": 830, "t": "0403", "s": "Here’s everything we launched this week (we promise not a single one of these is a joke): — Gemma 4, bringing our most intelligent open models and breakthrough reasoning to your personal hardware and devices while outcompeting models 20x its size — Veo 3.1 Lite, our latest video generation model, which delivers the same speed as Veo 3.1 Fast but at half the cost — Two new service tiers in the Gemini API in @GoogleAIStudio, bringing you granular control over cost and reliability through a single, unified interface — Focus mode in @GoogleAIStudio, the fastest way to make targeted edits to specific parts of your apps — New AI features launched to Google Vids from @GoogleWorkspace, including high-quality video generation from Veo 3.1, available to all users at no cost", "tag": "raw"}
+{"a": "MSFTResearch", "l": 20, "t": "0407", "s": "For people who speak the world’s most popular languages, AI is helping improve their health care, education and more. But what about the millions who speak less common languages? Microsoft researchers and data scientists are working to close the gap. https://news.microsoft.com/source/features/ai/building-ai-that-works-for-everyone-starts-with-language/", "tag": "raw"}
+{"a": "MSFTResearch", "l": 39, "t": "0406", "s": "In the latest Research Focus: LLM sentiment in cultural context, robot assembly learning, smarter AI agents, verified Rust code, and CHI 2026. https://www.linkedin.com/pulse/sentiment-context-robot-dexterity-smarter-ai-agents-eprye", "tag": "raw"}
+{"a": "MSFTResearch", "l": 32, "t": "0401", "s": "ADeLe profiles AI models across a set of core abilities and compares them to task requirements. Published in @Nature, this framework enables accurate prediction of model performance on tasks they have not encountered before: https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 57, "t": "0408", "s": "This is literally why I wrote Taming Silicon Valley.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 3, "t": "0408", "s": "appreciate the clarification!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 20, "t": "0408", "s": "What Should We Take From Anthropic’s (possibly) Terrifying New Report on Mythos? – ⁦@garymarcus’s latest @CACMmag⁩ https://cacm.acm.org/blogcacm/what-should-we-take-from-anthropics-possibly-terrifying-new-report-on-mythos/", "tag": "raw"}
+{"a": "rowancheung", "l": 5, "t": "0408", "s": "I break down stories like this every day in my free newsletter. Keep up with the latest in AI/Robotics in 5 min a day: https://www.therundown.ai/subscribe", "tag": "raw"}
+{"a": "rowancheung", "l": 18, "t": "0408", "s": "Halter now manages nearly 650,000 cows, and is currently raising at a $2B valuation. Half the world's habitable land is farmland. This is AI being applied to one of the oldest industries on earth and I think we're going to see a lot more of this.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle or a horseshoe crab on the floor they stay put with no container..lol...touch the crab he rolls over..touch the turtle and he hisses at you", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog...please let us know how you 'kindly respond'", "tag": "raw"}
+{"a": "bindureddy", "l": 2, "t": "0408", "s": "My point with the post exactly!!", "tag": "raw"}
+{"a": "bindureddy", "l": 0, "t": "0408", "s": "sigh", "tag": "raw"}
+{"a": "bindureddy", "l": 175, "t": "0408", "s": "INSANELY-BIG is a very large model from a frontier AI lab. It scores 99 on literally EVERY SINGLE EVAL except SWE Bench Pro. On SWE-BENCH pro it score 99.99. They say they won’t release it - cause it costs $100 per output 1M tokens and yeah - it’s too scary to drop to the general public", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0409", "s": "Yes, it is possible. Please specify that the text should be in English.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0408", "s": "Hand-drawn style educational illustration and concept diagram explanation shared with prompt template for creating single-page infographics using specific hand-drawn educational style on warm cream paper with macaron colors and icons.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0408", "s": "Nano banana does not support SVG/layers.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0408", "s": "Not going.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0408", "s": "Contact customer service at support@marswave.ai", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0408", "s": "Some formats are not supported. Must follow the format. If not, you can email customer service.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0409", "s": "How many Chinese people are in Meta AI team? After Muse release, the timeline is full of Chinese AI researchers and engineers reposting and commenting. Must try it today to see how it performs.", "tag": "raw"}
+{"a": "vista8", "l": 3, "t": "0408", "s": "Meta finally delivered. The data looks good, but unsure how it actually performs. Using US VPN still prompts not allowed in the country or region. Will research how to solve tomorrow.", "tag": "raw"}
+{"a": "vista8", "l": 2, "t": "0408", "s": "Stability, SQLite memory management, Skill automatic RL reinforcement, etc. are advantages.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0408", "s": "Gratitude for companionship along the journey.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0408", "s": "Surprised remark about having a third and fourth already.", "tag": "raw"}
+{"a": "tualatrix", "l": 23, "t": "0408", "s": "Almost forgot today is PasteNow's fifth anniversary.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Inquires why flight CA856 was cancelled and requests options for refund or rebooking.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Says 11 o'clock lu.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Comment on large house in Tohoku via NHK education.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan thoughts.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reply with meme to takumiP and RocketNews24.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0408", "s": "Asks if India sells Iranian weapons.", "tag": "raw"}
+{"a": "mranti", "l": 20, "t": "0408", "s": "Explains US cannot afford new trade war.", "tag": "raw"}
+{"a": "mranti", "l": 66, "t": "0408", "s": "Quotes Adam Back denying being Satoshi Nakamoto.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "Discusses game-like design vs gamification in apps like CapWords for language learning.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Replies on understanding obstacles in AI image recognition for CapWords.", "tag": "raw"}
+{"a": "nishuang", "l": 13, "t": "0409", "s": "Notes Amie app's pivot to AI meeting efficiency tool with redesigned site.", "tag": "raw"}
+{"a": "a16z", "l": 24, "t": "0408", "s": "Steven Sinofsky on Wall Street underestimating AI opportunity by 10x.", "tag": "raw"}
+{"a": "a16z", "l": 32, "t": "0408", "s": "Steven Sinofsky explains difficulty of AI diffusion in firms due to algorithmic thinking.", "tag": "raw"}
+{"a": "a16z", "l": 14, "t": "0408", "s": "Aaron Levie and Steven Sinofsky on companies unsure how to budget AI spend.", "tag": "raw"}
+{"a": "ycombinator", "l": 49, "t": "0408", "s": "Userlens AI predicts churn for CSMs; congrats on launch.", "tag": "raw"}
+{"a": "ycombinator", "l": 190, "t": "0407", "s": "Tasklet cloud agent OS for knowledge work raised $20M.", "tag": "raw"}
+{"a": "ycombinator", "l": 112, "t": "0407", "s": "Congrats Mosaic on $3.8M seed for AI video editing agents.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 9, "t": "0408", "s": "Modus Audit cofounder on AI making technical people 100x engineers.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 9, "t": "0408", "s": "Modus Audit cofounder on vision for audit in two weeks.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 24, "t": "0407", "s": "Lightspeed leads $85M in Modus Audit to rebuild audit with AI.", "tag": "raw"}
+{"a": "sequoia", "l": 5823, "t": "0401", "s": "Shares Don Valentine's 1977 memo for Sequoia investment in Apple.", "tag": "raw"}
+{"a": "sequoia", "l": 30, "t": "0331", "s": "Quotes Roelof Botha and Jack on new information architecture for companies.", "tag": "raw"}
+{"a": "sequoia", "l": 260, "t": "0319", "s": "Highlights question 'How hard can it be?' at OpenClaw meetup.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Shares Part IV on Founders Fund's power across Silicon Valley, Pentagon, White House.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Shares Part III on Founders Fund as narrative agent spreading its gospel.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Links full interview video.", "tag": "raw"}
+{"a": "eladgil", "l": 142, "t": "0407", "s": "Full discussion with Sundar Pichai and John Collison on Google AI and future.", "tag": "raw"}
+{"a": "eladgil", "l": 291, "t": "0406", "s": "Fun conversation with Sundar Pichai and John Collison on AI insights.", "tag": "raw"}
+{"a": "eladgil", "l": 38, "t": "0404", "s": "Compares AI insights to X crowd on best Aperol Spritz in NYC.", "tag": "raw"}
+{"a": "pmarca", "l": 1658, "t": "0408", "s": "Overheard: LinkedIn is prison for middle managers.", "tag": "raw"}
+{"a": "pmarca", "l": 518, "t": "0408", "s": "Overheard: Everyone is either too AI psychotic or not enough.", "tag": "raw"}
+{"a": "pmarca", "l": 846, "t": "0408", "s": "Overheard: Everyone is either too online or not online enough.", "tag": "raw"}
+{"a": "bchesky", "l": 196, "t": "0404", "s": "Explains combined product marketing and management role at Airbnb.", "tag": "raw"}
+{"a": "bchesky", "l": 1002, "t": "0403", "s": "Agrees with Tony Fadell on combining product management and marketing roles.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "Praises Garry as exceptional board member.", "tag": "raw"}
+{"a": "chamath", "l": 78, "t": "0408", "s": "Replies good stuff AW.", "tag": "raw"}
+{"a": "chamath", "l": 31, "t": "0407", "s": "Links to 8090.ai tool.", "tag": "raw"}
+{"a": "chamath", "l": 624, "t": "0407", "s": "Software Factory absorbs tribal knowledge to manage company knowledge.", "tag": "raw"}
+{"a": "paulg", "l": 1811, "t": "0408", "s": "Family cannot distinguish lemons from limes eyes closed; bets bartenders know.", "tag": "raw"}
+{"a": "paulg", "l": 45, "t": "0407", "s": "Clarifies conversation after Sam resigned.", "tag": "raw"}
+{"a": "paulg", "l": 60, "t": "0407", "s": "Recalls conversation about partners unhappy with Sam's YC leadership.", "tag": "raw"}
+{"a": "TheInformation", "l": 4, "t": "0408", "s": "When will Anthropic surpass Nvidia? Theory Ventures predicts 7 months to 3 years.", "tag": "raw"}
+{"a": "TheInformation", "l": 5, "t": "0408", "s": "Claude Mythos powerful; public release delayed to 40 organizations.", "tag": "raw"}
+{"a": "TheInformation", "l": 10, "t": "0408", "s": "Nvidia could be worth 400% more per analysis.", "tag": "raw"}
+{"a": "TechCrunch", "l": 14, "t": "0408", "s": "WireGuard VPN developer cannot ship updates after Microsoft locks account.", "tag": "raw"}
+{"a": "TechCrunch", "l": 49, "t": "0408", "s": "Poke makes AI agents as easy as sending a text.", "tag": "raw"}
+{"a": "TechCrunch", "l": 11, "t": "0408", "s": "Canva acquires Simtheory and Ortto for AI and marketing automation.", "tag": "raw"}
+{"a": "verge", "l": 3, "t": "0409", "s": "Dyson made handheld version of its iconic fans.", "tag": "raw"}
+{"a": "verge", "l": 5, "t": "0408", "s": "OpenAI economic proposals and DC reactions.", "tag": "raw"}
+{"a": "verge", "l": 37, "t": "0408", "s": "Finally get the iPhone Air with MagSafe wallet and battery.", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0408", "s": "Anthropic faces conflicting rulings on Claude use by US military.", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0408", "s": "Dyson Spot+Scrub Ai review: good cleaning but height issue.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0408", "s": "Tested lightweight hiking boots under 2 pounds.", "tag": "raw"}
