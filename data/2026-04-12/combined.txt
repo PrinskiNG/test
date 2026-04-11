@@ -1,0 +1,116 @@
+{"a": "elonmusk", "l": 747, "t": "0411", "s": "True", "tag": "raw"}
+{"a": "elonmusk", "l": 2627, "t": "0411", "s": "He has a history of theft & violence.", "tag": "raw"}
+{"a": "elonmusk", "l": 5500, "t": "0411", "s": "Look at those beautiful Raptor 3 engines!", "tag": "raw"}
+{"a": "sama", "l": 2307, "t": "0411", "s": "That was a bad word choice and I wish I hadn't used it. It has been a tough day and I am not thinking the most clearly that I ever have.", "tag": "raw"}
+{"a": "sama", "l": 13909, "t": "0410", "s": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is: blog link.", "tag": "raw"}
+{"a": "sama", "l": 11473, "t": "0409", "s": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.", "tag": "raw"}
+{"a": "karpathy", "l": 80, "t": "0410", "s": "No the company physically gets you to come in, sits you down and asks you a precise set of maximally informative questions specifically designed for the best upload fidelity.", "tag": "raw"}
+{"a": "karpathy", "l": 113, "t": "0410", "s": "These neuroscience adjacent ideas are exotic armchair philosophy when the LLM simulation path will work really well and so much faster and it's not even remotely a contest.", "tag": "raw"}
+{"a": "karpathy", "l": 2896, "t": "0410", "s": "Yes it's the tractable form of brain upload via LLM simulators. You show up for detailed video interviews then LLM finetuning to upload you and give an API endpoint of your simulation.", "tag": "raw"}
+{"a": "demishassabis", "l": 809, "t": "0408", "s": "Great to chat with fellow Londoner HarryStebbings about the path to AGI and how we’re using AI today to accelerate science & medicine.", "tag": "raw"}
+{"a": "demishassabis", "l": 1315, "t": "0408", "s": "Thanks for the great conversation cleoabram and some competitive Jenga. Really enjoyed talking about all the amazing ways AI is helping to advance science & the incredible future it will enable.", "tag": "raw"}
+{"a": "demishassabis", "l": 120, "t": "0406", "s": "Looking forward to it garrytan ycombinator - thanks for inviting me!", "tag": "raw"}
+{"a": "darioamodei", "l": 817, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models, but it won’t be the last.", "tag": "raw"}
+{"a": "darioamodei", "l": 991, "t": "0407", "s": "The dangers of getting this wrong are obvious, but if we get it right, there is a real opportunity to create a fundamentally more secure internet and world than we had before the advent of AI-powered cyber capabilities.", "tag": "raw"}
+{"a": "darioamodei", "l": 463, "t": "0407", "s": "Glasswing is just the first step: patching and securing the world’s software infrastructure will be the work of months and years.", "tag": "raw"}
+{"a": "OpenAI", "l": 291, "t": "0411", "s": "The security and privacy of your information are a top priority. We’re committed to being transparent and taking quick action when issues arise.", "tag": "raw"}
+{"a": "OpenAI", "l": 130, "t": "0411", "s": "Atlas: https://chatgpt.com/atlas", "tag": "raw"}
+{"a": "OpenAI", "l": 107, "t": "0411", "s": "Codex CLI: https://developers.openai.com/codex/cli", "tag": "raw"}
+{"a": "AnthropicAI", "l": 3511, "t": "0408", "s": "New on the Engineering Blog: Building Managed Agents—our hosted service for long-running agents—meant solving an old problem in computing: how to design a system for programs as yet unthought of.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2435, "t": "0407", "s": "The Claude Mythos Preview system card is available here: pdf link.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 1782, "t": "0407", "s": "You can read a detailed technical report on the software vulnerabilities and exploits discovered by Claude Mythos Preview here: link.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 74, "t": "0409", "s": "Start building with Gemma 4 link.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1666, "t": "0409", "s": "Gemma 4 punches above its weight, outperforming models 10x its size without the need for massive compute.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 662, "t": "0402", "s": "Start building with Gemma 4 now in GoogleAIStudio. You can also download the model weights from HuggingFace, Kaggle, or Ollama.", "tag": "raw"}
+{"a": "xAI", "l": 557, "t": "0403", "s": "On web and mobile, you can try Quality mode by selecting it in the prompt bar. Our previous model will still be available when you select Speed.", "tag": "raw"}
+{"a": "xAI", "l": 1003, "t": "0403", "s": "Deeper World Knowledge. Quality mode features dramatically stronger world knowledge and prompt understanding.", "tag": "raw"}
+{"a": "xAI", "l": 1032, "t": "0403", "s": "Stronger Text Rendering. Our new model renders text with improved accuracy in many languages.", "tag": "raw"}
+{"a": "AIatMeta", "l": 616, "t": "0410", "s": "🔜", "tag": "raw"}
+{"a": "AIatMeta", "l": 25, "t": "0409", "s": "Try Muse Spark today via the Meta AI app or https://www.meta.ai/", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0409", "s": "5/ link", "tag": "raw"}
+{"a": "GoogleAI", "l": 236, "t": "0410", "s": "TGIF! Here are some of our favorite updates from the past week including Notebooks in GeminiApp and AI-powered GoogleFinance tool.", "tag": "raw"}
+{"a": "GoogleAI", "l": 23, "t": "0410", "s": "Share your Gemma 4 builds or the model variants you’re training in the replies below!", "tag": "raw"}
+{"a": "MSFTResearch", "l": 29, "t": "0410", "s": "Newly published in Optica from Microsoft Research: a first-of-its-kind materials-screening framework for glass-based data storage.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 18, "t": "0409", "s": "On the Microsoft Research Podcast, Chief Scientist Jaime Teevan & researchers unpack the New Future of Work Report 2025.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 101, "t": "0409", "s": "Today, we welcome the 2026 Microsoft Research Fellowship cohort, an inspiring global community of fellows and advisors.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0411", "s": "it does sometimes yield search results but eg search by top and most recent sometimes give different results.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0411", "s": "in fairness i think it’s just much slower than the original search but i got it work on my simple search the second time", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0411", "s": "if it works stably and economically they can put it in the search box. what’s there is utter garbage.", "tag": "raw"}
+{"a": "rowancheung", "l": 12, "t": "0409", "s": "I break down stories like this every day in my free newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 171, "t": "0409", "s": "Meta's new AI can predict your brain better than a brain scan. TRIBE v2 is a foundation model trained on 1,000+ hours of brain imaging data.", "tag": "raw"}
+{"a": "rowancheung", "l": 7, "t": "0408", "s": "I break down stories like this every day in my free newsletter.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle or a horseshoe crab on the floor they stay put with no container..lol...touch the crab he rolls over..touch the turtle and he hisses at you", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog...please let us know how you 'kindly respond'", "tag": "raw"}
+{"a": "bindureddy", "l": 3, "t": "0411", "s": "Yes, we are making changes here. We are incorporating super cheap models like Flash, Grok and GLM along side Opus and Codex.", "tag": "raw"}
+{"a": "bindureddy", "l": 69, "t": "0411", "s": "ANNOUNCING AGENT SWARM - A MULTI-AGENT SYSTEM THAT CAN BUILD AN ENTIRE BUSINESS. A Master Agent spawns multiple worker agents.", "tag": "raw"}
+{"a": "bindureddy", "l": 208, "t": "0411", "s": "Finally moved 90% of our hard coding workloads over to Codex. For some reason Opus seemed to have gotten less performant over time.", "tag": "raw"}
+{"a": "dotey", "l": 67, "t": "0411", "s": "Anthropic released Claude Managed Agents public beta. API team Michael Cohen explains Vaults for securely managing user credentials for agents without exposing keys to Claude.", "tag": "raw"}
+{"a": "dotey", "l": 164, "t": "0411", "s": "Recommended learning. This is like distilling yourself.", "tag": "raw"}
+{"a": "oran_ge", "l": 48, "t": "0411", "s": "Sam Altman was woken by a Molotov cocktail at his home. He posted photos of his children for empathy. This stems from deep anxiety about AI's impact on humanity's future.", "tag": "raw"}
+{"a": "oran_ge", "l": 83, "t": "0410", "s": "Recent insight: Human brain is shaped by language. Language is the chisel of the brain. Action needs language to summarize and abstract into cognition.", "tag": "raw"}
+{"a": "oran_ge", "l": 28, "t": "0410", "s": "An astonishing fact: Cowork took only 10 days of development after fourth design version. The project was prepared for over 365 days.", "tag": "raw"}
+{"a": "vista8", "l": 5, "t": "0411", "s": "Overseas GEO how to do it, data speaks. Summary of GEO conference data on AI citation source preferences and content features.", "tag": "raw"}
+{"a": "vista8", "l": 7, "t": "0411", "s": "First guest sharing notes at GEO conference: most open source skills cannot be used directly. Core keywords for overseas GEO: content, structure, entity, distribution.", "tag": "raw"}
+{"a": "vista8", "l": 36, "t": "0411", "s": "Domestic first GEO conference has started!", "tag": "raw"}
+{"a": "tualatrix", "l": 30, "t": "0411", "s": "Rained all day but sky bright. Held baby daughter on balcony practicing head lift, viewing plants, hearing rain and birds. She shakes head exploring new world.", "tag": "raw"}
+{"a": "tualatrix", "l": 112, "t": "0411", "s": "Used up 5-hour Codex quotas on three ChatGPT Plus accounts in one day, previously unimaginable. Resting before buying $100 Pro next month.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0411", "s": "Reply expressing strong admiration: 'Too strong~'.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Inquired why Air China flight CA856 was suddenly cancelled without email notice, seeking options for seat or full refund from Heathrow.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Simple greeting post: 'Hello World'.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Post saying '11 o'clock lu' possibly indicating time or casual note.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Stating 'waiting someone'.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Greeting: 'hello everyone'.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Comment on large houses in Tohoku region while watching NHK education channel.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Reflective post on personal thoughts regarding Twitter and 2channel.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Casual reply mentioning 'trap' or similar in context of news.", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0411", "s": "Example of a webmaster scamming 110 yuan using Minimax.", "tag": "raw"}
+{"a": "mranti", "l": 6, "t": "0411", "s": "Some manufacturers are too stupid to fully disguise, better to eliminate them first.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0411", "s": "Exclaiming about attachment or stickiness to software!", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "Discusses game-like design in apps like CapWords for language learning versus gamification in Duolingo, emphasizing intrinsic motivation through collection and fun.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Clarifies misunderstanding of operational obstacles, noting it abandons CapWords' key auto-crop and recognition features.", "tag": "raw"}
+{"a": "a16z", "l": 3138, "t": "0410", "s": "Quotes 'Action produces information' accompanied by an image.", "tag": "raw"}
+{"a": "a16z", "l": 335, "t": "0410", "s": "Shares Marc Andreessen's advice on career risk exposure with link to guide.", "tag": "raw"}
+{"a": "a16z", "l": 112, "t": "0410", "s": "Features Periodic Labs cofounder explaining why physicists excel in AI due to principled thinking and leverage.", "tag": "raw"}
+{"a": "ycombinator", "l": 8, "t": "0409", "s": "Promotes tuning into a YouTube Founder Firesides episode.", "tag": "raw"}
+{"a": "ycombinator", "l": 68, "t": "0409", "s": "Highlights Luminai's $38M Series B for AI agents automating hospital workflows from faxes; features founder interview on journey and scaling.", "tag": "raw"}
+{"a": "ycombinator", "l": 109, "t": "0408", "s": "Announces Userlens AI CSM tool launch that predicts churn early, backed by YC.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 6, "t": "0410", "s": "Recaps hosting RSA Conference reception with partners for cybersecurity leaders and portfolio companies.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 5, "t": "0410", "s": "Shares Naboo cofounder's reflections on early team energy and momentum in modernizing corporate events.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0409", "s": "Simple congratulatory message.", "tag": "raw"}
+{"a": "sequoia", "l": 5834, "t": "0401", "s": "Shares never-before-seen 1977 Sequoia memo investing in Apple Computer for 50th anniversary.", "tag": "raw"}
+{"a": "sequoia", "l": 30, "t": "0331", "s": "Discusses alternative to hierarchy using AI world model for company organization, linking to new piece by Jack and Roelof.", "tag": "raw"}
+{"a": "sequoia", "l": 260, "t": "0319", "s": "Features discussion at OpenClaw meetup on the founding question 'How hard can it be?' behind legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 164, "t": "0701", "s": "Shares Part IV examining Founders Fund's influence across Silicon Valley, Pentagon, and White House with performance analysis.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Presents Part III on Founders Fund as narrative agent spreading gospel through provocative initiatives in Silicon Valley.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Provides link to full interview video.", "tag": "raw"}
+{"a": "eladgil", "l": 33, "t": "0409", "s": "Eye emoji reaction to Meta AI's new Muse Spark model release.", "tag": "raw"}
+{"a": "eladgil", "l": 7, "t": "0409", "s": "Offers big congratulations.", "tag": "raw"}
+{"a": "eladgil", "l": 151, "t": "0407", "s": "Shares full podcast discussion with Sundar Pichai and John Collison on Google AI, compute, and future.", "tag": "raw"}
+{"a": "pmarca", "l": 326, "t": "0411", "s": "Target emoji agreeing with post on AI ending murder of children's curiosity and dreams in education.", "tag": "raw"}
+{"a": "pmarca", "l": 225, "t": "0411", "s": "Humorous reply suggesting 'retardmaxxing' as counter to healthmaxxing obsession among SaaS workers.", "tag": "raw"}
+{"a": "pmarca", "l": 233, "t": "0411", "s": "Agrees that software engineering roles will expand to include security, data, AI/BI responsibilities.", "tag": "raw"}
+{"a": "bchesky", "l": 197, "t": "0404", "s": "Explains idea of combining product marketing and management roles with CEO involvement for cohesive product story.", "tag": "raw"}
+{"a": "bchesky", "l": 1009, "t": "0403", "s": "Affirms following integrated product management and marketing model as described by Tony Fadell.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "As board member, praises Garry for doing exceptional job.", "tag": "raw"}
+{"a": "chamath", "l": 22, "t": "0411", "s": "Clarifies comment on possessions: allows nice things but distinguishes quality levels like sofas.", "tag": "raw"}
+{"a": "chamath", "l": 25, "t": "0411", "s": "Admits not understanding 'Agentic AI' or Jevon's Paradox without jargon or lookup.", "tag": "raw"}
+{"a": "chamath", "l": 3104, "t": "0411", "s": "Advises reducing life complexity like homes and logistics as success grows to preserve time for building, emulating Buffett and Elon.", "tag": "raw"}
+{"a": "paulg", "l": 7, "t": "0411", "s": "Suggests living in country manor without live-in staff as superior option.", "tag": "raw"}
+{"a": "paulg", "l": 61, "t": "0411", "s": "Notes modern kitchens as house center, preferring no constant non-family presence.", "tag": "raw"}
+{"a": "paulg", "l": 218, "t": "0411", "s": "Observes wealthy Americans now greeted by security rather than butlers or staff.", "tag": "raw"}
+{"a": "TheInformation", "l": 3, "t": "0411", "s": "Reports AI making hacking faster than human defense, shifting balance toward attackers.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0411", "s": "Covers GitButler targeting AI-generated code management for teams with human and AI contributors, backed by a16z.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0411", "s": "Reveals OpenAI's projection of advertising comprising 36% of revenue by 2030.", "tag": "raw"}
+{"a": "TechCrunch", "l": 3, "t": "0411", "s": "Reports Kalshi securing temporary pause in Arizona criminal case.", "tag": "raw"}
+{"a": "TechCrunch", "l": 6, "t": "0411", "s": "Announces AMC streaming 'The Audacity' premiere in 21 TikTok parts.", "tag": "raw"}
+{"a": "TechCrunch", "l": 41, "t": "0411", "s": "Covers Sam Altman's response to incendiary New Yorker article following attack on his home.", "tag": "raw"}
+{"a": "verge", "l": 4, "t": "0411", "s": "Netherlands becomes first European country approving Tesla's supervised Full Self-Driving.", "tag": "raw"}
+{"a": "verge", "l": 24, "t": "0411", "s": "Google attributes Polymarket election bets appearing in News to an error.", "tag": "raw"}
+{"a": "verge", "l": 11, "t": "0411", "s": "Notes Pokémon Champions launch facing bugs, balance issues, and newcomer problems.", "tag": "raw"}
+{"a": "WIRED", "l": 14, "t": "0411", "s": "Explores Explosive Media group releasing AI-generated viral videos mocking Trump and US since Iran war.", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0411", "s": "Details Anthropic enabling easier business AI agent building with Claude amid enterprise growth.", "tag": "raw"}
+{"a": "WIRED", "l": 4, "t": "0411", "s": "Reviews Zuvi Colorbox hair dye printer unable to deliver even two shades reliably.", "tag": "raw"}
