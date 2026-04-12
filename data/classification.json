@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "classification": {
-    "elonmusk": "A",
+    "elonmusk": "S",
     "sama": "S",
     "karpathy": "A",
     "demishassabis": "A",
@@ -41,9 +41,9 @@
     "sequoia": "A",
     "foundersfund": "inactive",
     "eladgil": "B",
-    "pmarca": "B",
+    "pmarca": "A",
     "bchesky": "A",
-    "chamath": "A",
+    "chamath": "B",
     "paulg": "B",
     "TheInformation": "B",
     "TechCrunch": "B",
