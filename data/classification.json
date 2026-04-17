@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "classification": {
     "elonmusk": "S",
     "sama": "A",
@@ -9,7 +9,7 @@
     "OpenAI": "B",
     "AnthropicAI": "A",
     "GoogleDeepMind": "A",
-    "xAI": "A",
+    "xAI": "B",
     "AIatMeta": "B",
     "GoogleAI": "B",
     "MSFTResearch": "B",
@@ -41,7 +41,7 @@
     "sequoia": "B",
     "foundersfund": "inactive",
     "eladgil": "B",
-    "pmarca": "B",
+    "pmarca": "A",
     "bchesky": "A",
     "chamath": "B",
     "paulg": "B",
