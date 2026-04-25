@@ -1,4 +1,14 @@
 {
-  "date": "2026-04-25",
-  "classification": {}
+  "date": "2026-04-26",
+  "classification": {
+    "Scobleizer": "B",
+    "bentossell": "B",
+    "HuggingFace": "A",
+    "MistralAI": "B",
+    "Perplexity_AI": "A",
+    "GroqInc": "inactive",
+    "Cohere": "B",
+    "TogetherCompute": "B",
+    "runwayml": "B"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 20,
+    "latest": "0425"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 58,
+    "latest": "0425"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 1765,
+    "latest": "0424"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 4609,
+    "latest": "0409"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 1781,
+    "latest": "0424"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2403,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 10,
+    "max_l": 258,
+    "latest": "0424"
+  },
+  "TogetherCompute": {
+    "total": 10,
+    "max_l": 100,
+    "latest": "0425"
+  },
+  "runwayml": {
+    "total": 10,
+    "max_l": 193,
+    "latest": "0424"
+  }
+}

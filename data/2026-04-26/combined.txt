@@ -1,0 +1,27 @@
+{"a": "Scobleizer", "l": 20, "t": "0425", "s": "I love the Apple Vision Pro as a camera. Baby Kiana likes the screens on the front so she stares at me. And you. The human brain likes looking at screens from birth.", "tag": "raw"}
+{"a": "Scobleizer", "l": 3, "t": "0425", "s": "Meta proved you can shoot video with no screens in their Metas. But Apple is the first camera to capture my point of view in the world.", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0425", "s": "It is amazing!", "tag": "raw"}
+{"a": "bentossell", "l": 58, "t": "0424", "s": "anyone else using claude dispatch w/ computer use to use codex? 😅", "tag": "raw"}
+{"a": "bentossell", "l": 16, "t": "0423", "s": "codex mobile", "tag": "raw"}
+{"a": "bentossell", "l": 7, "t": "0423", "s": "i should do a better job of this", "tag": "raw"}
+{"a": "HuggingFace", "l": 1765, "t": "0424", "s": "🐳 is back!", "tag": "raw"}
+{"a": "HuggingFace", "l": 972, "t": "0404", "s": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M ... openclaw onboard ...", "tag": "raw"}
+{"a": "HuggingFace", "l": 651, "t": "0420", "s": "new open coding sota 🤗", "tag": "raw"}
+{"a": "MistralAI", "l": 4609, "t": "0326", "s": "🔊Introducing Voxtral TTS: our new frontier open-weight model for natural, expressive, and ultra-fast text-to-speech", "tag": "raw"}
+{"a": "MistralAI", "l": 2603, "t": "0317", "s": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.", "tag": "raw"}
+{"a": "MistralAI", "l": 4073, "t": "0316", "s": "🚀Announcing a strategic partnership with NVIDIA to co-develop frontier open-source AI models...", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1781, "t": "0422", "s": "We've published new research on how we post-train models for accurate search-augmented answers. Our SFT + RL pipeline improves search, citation quality...", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1653, "t": "0416", "s": "Claude Opus 4.7 is now the default orchestration model powering Computer.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1496, "t": "0423", "s": "Kimi K2.6, the new state-of-the-art open-weight model from Moonshot, is now available for Pro and Max subscribers.", "tag": "raw"}
+{"a": "GroqInc", "l": 2403, "t": "1224", "s": "Groq has entered into a non-exclusive licensing agreement with Nvidia for Groq’s inference technology.", "tag": "raw"}
+{"a": "GroqInc", "l": 327, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 42, "t": "0216", "s": "GroqCloud is scaling fast. 3.5M+ developers and growing. Our UK data center is now live with Equinix...", "tag": "raw"}
+{"a": "Cohere", "l": 258, "t": "0422", "s": "Excited to share our work on production-ready W4A8 inference, now integrated in vLLM! ... up to 58% faster TTFT...", "tag": "raw"}
+{"a": "Cohere", "l": 175, "t": "0424", "s": "🚀 Sovereign AI for the world. Cohere & Aleph Alpha form transatlantic AI powerhouse...", "tag": "raw"}
+{"a": "Cohere", "l": 61, "t": "0422", "s": "Get more from speculative decoding in MoE models", "tag": "raw"}
+{"a": "TogetherCompute", "l": 100, "t": "0424", "s": "Introducing DeepSeek V4 Pro, a long-context model with hybrid attention, three reasoning modes, and SOTA coding performance.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 25, "t": "0425", "s": "Inference that never sleeps, for agents that never stop. \"Why cowork when you can delegate?\" ... Powered by @togethercompute...", "tag": "raw"}
+{"a": "TogetherCompute", "l": 14, "t": "0422", "s": "Introducing Kimi K2.6 from @Kimi_Moonshot, a multimodal agentic model with Agent Swarm scaling to 300 sub-agents...", "tag": "raw"}
+{"a": "runwayml", "l": 193, "t": "0420", "s": "Have a big idea but no advertising budget? Make it yourself with Runway. All you need is a concept to start creating high impact ads...", "tag": "raw"}
+{"a": "runwayml", "l": 140, "t": "0421", "s": "Submissions for the 4th Annual Runway AI Festival close April 27th. Don't miss your chance to have your work featured...", "tag": "raw"}
+{"a": "runwayml", "l": 138, "t": "0424", "s": "GPT Image 2 is now available on Runway. If you can dream it, you can see it. Down to the last detail.", "tag": "raw"}
