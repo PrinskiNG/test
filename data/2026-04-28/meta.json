@@ -1,0 +1,92 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 17104,
+    "latest": "0427"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 11978,
+    "latest": "0427"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 20507,
+    "latest": "0420"
+  },
+  "demishassabis": {
+    "total": 10,
+    "max_l": 13032,
+    "latest": "0425"
+  },
+  "DarioAmodei": {
+    "total": 10,
+    "max_l": 15363,
+    "latest": "0407"
+  },
+  "OpenAI": {
+    "total": 10,
+    "max_l": 51667,
+    "latest": "0424"
+  },
+  "AnthropicAI": {
+    "total": 10,
+    "max_l": 953,
+    "latest": "0424"
+  },
+  "GoogleDeepMind": {
+    "total": 10,
+    "max_l": 1229,
+    "latest": "0427"
+  },
+  "xAI": {
+    "total": 10,
+    "max_l": 21813,
+    "latest": "0423"
+  },
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 2,
+    "latest": "0427"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 29,
+    "latest": "0427"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 1774,
+    "latest": "0424"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 4611,
+    "latest": "0409"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 1793,
+    "latest": "0424"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2404,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 9,
+    "max_l": 260,
+    "latest": "0424"
+  },
+  "TogetherCompute": {
+    "total": 10,
+    "max_l": 108,
+    "latest": "0427"
+  },
+  "runwayml": {
+    "total": 10,
+    "max_l": 155,
+    "latest": "0427"
+  }
+}

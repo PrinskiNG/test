@@ -1,0 +1,53 @@
+{"a": "elonmusk", "l": 15063, "t": "0427", "s": "😑", "tag": "raw"}
+{"a": "elonmusk", "l": 17104, "t": "0427", "s": "They stole a nonprofit. It’s not right.", "tag": "raw"}
+{"a": "elonmusk", "l": 15660, "t": "0427", "s": "Long list", "tag": "raw"}
+{"a": "sama", "l": 11918, "t": "0427", "s": "we have updated our partnership with microsoft. microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds. will continue to provide them with models and products until 2032, and a revenue share through 2030.", "tag": "raw"}
+{"a": "sama", "l": 5189, "t": "0427", "s": "so fun to see the reception to 5.5! there is almost nothing that feels more gratifying to me than builders saying they find our tools useful.", "tag": "raw"}
+{"a": "sama", "l": 11978, "t": "0426", "s": "feels like a good time to seriously rethink how operating systems and user interfaces are designed (also the internet; there should be a protocol that is equally usable by people and agents)", "tag": "raw"}
+{"a": "karpathy", "l": 3274, "t": "0410", "s": "Yes it's the tractable form of brain upload. There's a ton of scifi on brain uploads that requires way too exotic tech (scanning and simulating brains etc), when we're about to get a lossy and approximate version of that a lot sooner via LLM simulators.", "tag": "raw"}
+{"a": "karpathy", "l": 20507, "t": "0409", "s": "Judging by my tl there is a growing gap in understanding of AI capability.", "tag": "raw"}
+{"a": "karpathy", "l": 3820, "t": "0409", "s": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.", "tag": "raw"}
+{"a": "demishassabis", "l": 1190, "t": "0425", "s": "Thanks for inviting me @garrytan, was awesome to chat and loved the inspirational space! Great to see so many startups building with @googlegemma models!", "tag": "raw"}
+{"a": "demishassabis", "l": 1502, "t": "0416", "s": "Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-generated speech, Gemini 3.1 Flash TTS is really fun to play with!", "tag": "raw"}
+{"a": "demishassabis", "l": 13032, "t": "0414", "s": "Maybe tell your buddy to do some actual work and to stop spreading absolute nonsense. This post is completely false and just pure clickbait.", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12119, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on.", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15363, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them: https://www.darioamodei.com/essay/the-adolescence-of-technology", "tag": "raw"}
+{"a": "DarioAmodei", "l": 6661, "t": "0126", "s": "I've been working on this essay for a while, and it is mainly about AI and about the future. But given the horror we're seeing in Minnesota, its emphasis on the importance of preserving democratic values and rights at home is particularly relevant.", "tag": "raw"}
+{"a": "OpenAI", "l": 51667, "t": "0423", "s": "Introducing GPT-5.5 A new class of intelligence for real work and powering agents, built to understand complex goals, use tools, check its work, and carry more tasks through to completion. It marks a new way of getting computer work done. Now available in ChatGPT and Codex.", "tag": "raw"}
+{"a": "OpenAI", "l": 4998, "t": "0423", "s": "GPT-5.5 delivers this step up in intelligence without compromising on speed. GPT-5.5 matches GPT-5.4 per-token latency in real-world serving, while performing better across nearly every evaluation we measured.", "tag": "raw"}
+{"a": "OpenAI", "l": 6328, "t": "0424", "s": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 953, "t": "0424", "s": "Our experiment had a few quirks. One of our colleagues told Claude it could purchase something for itself. It chose to acquire 19 ping-pong balls. We’re keeping them in our office on Claude’s behalf.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 650, "t": "0424", "s": "We’re interested in how AI models could affect commercial exchange. (You might recall Project Vend, in which Claude ran a small business.) Economists have theorized about what markets with AI “agents” on both sides might look like. So we created one.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 368, "t": "0424", "s": "To read our write-up in full, see here: https://www.anthropic.com/features/project-deal", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1229, "t": "0423", "s": "This is Decoupled DiLoCo: our new resilient and flexible way to train advanced AI models across multiple data centres.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 747, "t": "0424", "s": "For @DemisHassabis, the path to AGI started in 1988 with an Amiga 500 and a game of Othello. 🕹️ His epiphany that software could act on our behalf remains at the heart of our work today as we apply the same logic to solving scientific grand challenges.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 641, "t": "0427", "s": "A decade ago in Korea, AlphaGo showed AI’s potential. Together with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷", "tag": "raw"}
+{"a": "xAI", "l": 14237, "t": "0423", "s": "Introducing Grok Voice Think Fast 1.0 A state-of-the-art voice model built for complex, multi-step workflows with snappy responses and high accuracy. It takes the top spot on the Tau Voice Bench and handles real-world messiness like noise, accents, and interruptions better than any other model in the world.", "tag": "raw"}
+{"a": "xAI", "l": 21813, "t": "0403", "s": "Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model. Quality mode gives you enhanced details, stronger text rendering, and higher levels of creative control. Now available on web and mobile.", "tag": "raw"}
+{"a": "xAI", "l": 2822, "t": "0418", "s": "Grok's Speech to Text API is now available. Instant, multi-speaker transcription across 25 languages - at the best price in the market.", "tag": "raw"}
+{"a": "Scobleizer", "l": 2, "t": "0427", "s": "Hi get @wabi and see.", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0427", "s": "Because then the customers do the financing of making the cars. And participate in the upside...", "tag": "raw"}
+{"a": "Scobleizer", "l": 2, "t": "0427", "s": "Great point, but there are others out there to buy too. Genspark, Flowith, etc.", "tag": "raw"}
+{"a": "bentossell", "l": 29, "t": "0427", "s": "build your own clicky software is so cloneale taste isn’t (@FarzaTV has good taste)", "tag": "raw"}
+{"a": "bentossell", "l": 3, "t": "0427", "s": "shane is a real and reasonable person tho tbf", "tag": "raw"}
+{"a": "bentossell", "l": 1, "t": "0427", "s": "i’m here aren’t i 😅", "tag": "raw"}
+{"a": "HuggingFace", "l": 1774, "t": "0424", "s": "🐳 is back!", "tag": "raw"}
+{"a": "HuggingFace", "l": 654, "t": "0420", "s": "new open coding sota 🤗", "tag": "raw"}
+{"a": "HuggingFace", "l": 975, "t": "0404", "s": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M ...", "tag": "raw"}
+{"a": "MistralAI", "l": 4611, "t": "0326", "s": "🔊Introducing Voxtral TTS: our new frontier open-weight model for natural, expressive, and ultra-fast text-to-speech", "tag": "raw"}
+{"a": "MistralAI", "l": 2609, "t": "0317", "s": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.", "tag": "raw"}
+{"a": "MistralAI", "l": 4077, "t": "0316", "s": "🚀Announcing a strategic partnership with NVIDIA to co-develop frontier open-source AI models...", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1793, "t": "0422", "s": "We've published new research on how we post-train models for accurate search-augmented answers.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1657, "t": "0416", "s": "Claude Opus 4.7 is now the default orchestration model powering Computer.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1251, "t": "0424", "s": "GPT-5.5 is now available on Perplexity for Max subscribers.", "tag": "raw"}
+{"a": "GroqInc", "l": 327, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 2404, "t": "1224", "s": "Groq has entered into a non-exclusive licensing agreement with Nvidia for Groq’s inference technology.", "tag": "raw"}
+{"a": "GroqInc", "l": 44, "t": "0216", "s": "GroqCloud is scaling fast. 3.5M+ developers and growing...", "tag": "raw"}
+{"a": "Cohere", "l": 260, "t": "0422", "s": "Excited to share our work on production-ready W4A8 inference, now integrated in vLLM!", "tag": "raw"}
+{"a": "Cohere", "l": 183, "t": "0424", "s": "🚀 Sovereign AI for the world. Cohere & Aleph Alpha form transatlantic AI powerhouse...", "tag": "raw"}
+{"a": "Cohere", "l": 61, "t": "0422", "s": "Get more from speculative decoding in MoE models", "tag": "raw"}
+{"a": "TogetherCompute", "l": 108, "t": "0424", "s": "Introducing DeepSeek V4 Pro, a long-context model with hybrid attention, three reasoning modes, and SOTA coding performance.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 7, "t": "0427", "s": "At #ICLR? Don’t miss @realDanFu 👇 Latent & Implicit Thinking Workshop (LIT)", "tag": "raw"}
+{"a": "runwayml", "l": 155, "t": "0424", "s": "GPT Image 2 is now available on Runway. If you can dream it, you can see it.", "tag": "raw"}
+{"a": "runwayml", "l": 141, "t": "0421", "s": "Submissions for the 4th Annual Runway AI Festival close April 27th.", "tag": "raw"}
+{"a": "runwayml", "l": 114, "t": "0427", "s": "Our first online Runway API Hackathon begins next week. One weekend. Free API credits. $25,000 in prizes.", "tag": "raw"}
