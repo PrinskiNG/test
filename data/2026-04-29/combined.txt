@@ -1,0 +1,25 @@
+{"a": "magicleap", "l": 10, "t": "0407", "s": "Commercial software cannot fully model, measure, or test the complexity of AR waveguides. So we’ve made our own. Our expert waveguide designers use in-house simulation tools...", "tag": "raw"}
+{"a": "magicleap", "l": 10, "t": "0330", "s": "Nanoscale precision. Process control at every layer. Repeatability across volume. This is how we ensure optical performance remains stable, from wafer to finished waveguide.", "tag": "raw"}
+{"a": "magicleap", "l": 15, "t": "0316", "s": "Tiny gratings, big impact. Our waveguides use nanoscale diffraction patterns to guide RGB light in a single-layer stack so we can bring vibrant visuals to AR glasses.", "tag": "raw"}
+{"a": "NathieVR", "l": 132, "t": "0428", "s": "Steam vs Quest users in a nutshell", "tag": "raw"}
+{"a": "NathieVR", "l": 411, "t": "0427", "s": "Steam Frame when?", "tag": "raw"}
+{"a": "NathieVR", "l": 57, "t": "0427", "s": "How I play Half-Life: Alyx", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 6200, "t": "0428", "s": "Posted an image (likely meme or visual content)", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 6858, "t": "0428", "s": "Taxing/fining people on the voting rights they hold in their own company is very different from raising taxes a little bit.", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 7658, "t": "0427", "s": "The more they push down American wages, the more this will be the case. Terrible argument.", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 548, "t": "0427", "s": "Yeah, that was my last company!", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 416, "t": "0428", "s": "Yes. Textbook revealed preference.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 1224, "t": "0427", "s": "Described efficient elevator system on cruise ship Star of the Seas and suggested improvements for interaction feedback latency.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 3625, "t": "0414", "s": "Discussed reading A Canticle For Leibowitz in different editions and the ephemeral nature of digital storage versus physical books.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 1489, "t": "0415", "s": "Discussed using LLM training for nearly lossless compression of huge corpora like the Internet Archive.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 88, "t": "0427", "s": "I did the bridge tour -- I should have asked about an engineering tour!", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 56, "t": "0427", "s": "It is perfectly fine to have an animation happen AROUND an instantly displayed piece of information.", "tag": "raw"}
+{"a": "rabovitz", "l": 5, "t": "0419", "s": "[video post]", "tag": "raw"}
+{"a": "rabovitz", "l": 5, "t": "0408", "s": "World's First Fully Robot-Assisted In-Human Cataract Procedure", "tag": "raw"}
+{"a": "rabovitz", "l": 2, "t": "0325", "s": "[link to Neal Stephenson substack]", "tag": "raw"}
+{"a": "htcvive", "l": 31, "t": "0422", "s": "A huge moment for VIVE Eagle, recognised with two prestigious Red Dot Awards for Product Design and Packaging Design.", "tag": "raw"}
+{"a": "htcvive", "l": 10, "t": "0415", "s": "2 million people worldwide have travelled through ancient Egypt in a shared VR experience. Congratulations to our partners Excurio...", "tag": "raw"}
+{"a": "htcvive", "l": 8, "t": "0420", "s": "At Laval Virtual 2026, we showcased VIVE Eagle in action.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 35, "t": "0423", "s": "Another update has rolled out for XREAL One / One S / One Pro, focused on bug fixes and improved audio stability across devices.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 31, "t": "0422", "s": "Enjoying my pre-flight Demon Slayer binge", "tag": "raw"}
+{"a": "XREAL_Global", "l": 22, "t": "0421", "s": "The XREAL One Series just won GOLD at the 2026 Edison Awards for Extended Reality Experience.", "tag": "raw"}

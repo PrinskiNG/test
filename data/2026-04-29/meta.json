@@ -1,0 +1,47 @@
+{
+  "tsmc": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "magicleap": {
+    "total": 10,
+    "max_l": 19,
+    "latest": "0420"
+  },
+  "NathieVR": {
+    "total": 10,
+    "max_l": 411,
+    "latest": "0428"
+  },
+  "PalmerLuckey": {
+    "total": 10,
+    "max_l": 7657,
+    "latest": "0428"
+  },
+  "ID_AA_Carmack": {
+    "total": 10,
+    "max_l": 3625,
+    "latest": "0428"
+  },
+  "boz": {
+    "total": 10,
+    "max_l": 1,
+    "latest": "0305"
+  },
+  "rabovitz": {
+    "total": 10,
+    "max_l": 5,
+    "latest": "0419"
+  },
+  "htcvive": {
+    "total": 9,
+    "max_l": 31,
+    "latest": "0428"
+  },
+  "XREAL_Global": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0428"
+  }
+}

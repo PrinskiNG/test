@@ -1,23 +1,14 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "classification": {
-    "elonmusk": "S",
-    "sama": "S",
-    "karpathy": "A",
-    "demishassabis": "S",
-    "DarioAmodei": "B",
-    "OpenAI": "S",
-    "AnthropicAI": "B",
-    "GoogleDeepMind": "A",
-    "xAI": "S",
-    "Scobleizer": "B",
-    "bentossell": "B",
-    "HuggingFace": "A",
-    "MistralAI": "B",
-    "Perplexity_AI": "A",
-    "GroqInc": "inactive",
-    "Cohere": "B",
-    "TogetherCompute": "B",
-    "runwayml": "B"
+    "tsmc": "inactive",
+    "magicleap": "B",
+    "NathieVR": "B",
+    "PalmerLuckey": "A",
+    "ID_AA_Carmack": "A",
+    "boz": "inactive",
+    "rabovitz": "B",
+    "htcvive": "B",
+    "XREAL_Global": "B"
   }
 }
