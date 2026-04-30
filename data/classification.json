@@ -1,14 +1,17 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "classification": {
-    "tsmc": "inactive",
-    "magicleap": "B",
-    "NathieVR": "B",
-    "PalmerLuckey": "A",
-    "ID_AA_Carmack": "A",
-    "boz": "inactive",
-    "rabovitz": "B",
-    "htcvive": "B",
-    "XREAL_Global": "B"
+    "tualatrix": "B",
+    "linyunqiu": "inactive",
+    "garywong": "B",
+    "web3buidl": "inactive",
+    "AI_Era": "inactive",
+    "AIGC_News": "inactive",
+    "Scobleizer": "B",
+    "bentossell": "B",
+    "HuggingFace": "A",
+    "MistralAI": "A",
+    "Perplexity_AI": "A",
+    "GroqInc": "inactive"
   }
 }

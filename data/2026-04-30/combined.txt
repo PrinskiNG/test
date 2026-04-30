@@ -1,0 +1,26 @@
+{"a": "tualatrix", "l": 14, "t": "0429", "s": "AI 悖论：「说 AI 要拿走人类工作（特别是程序员）的公司，却有一堆 Bug 迟迟不修，还要专门动员一下。」", "tag": "raw"}
+{"a": "tualatrix", "l": 2, "t": "0429", "s": "哈哈哈。因为太牛逼了，所以不能随意使用，内部都不能用。", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0429", "s": "用了 15 元了！接下去准备一个长任务，让 DeepSeek 跑通宵，然后明早起来验收成果～", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? I haven't received any email updates from you, just found out from @HeathrowAirport that the flight today is cancelled.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0429", "s": "I know a guy who is planning on putting up 42,000 by 2030. Not Elon. First one goes up in nine months", "tag": "raw"}
+{"a": "Scobleizer", "l": 4, "t": "0429", "s": "I met a guy last week who is planning on putting up 42,000 by 2030", "tag": "raw"}
+{"a": "Scobleizer", "l": 11, "t": "0429", "s": "Everyone in Silicon Valley knows the future is glasses not scuba masks.", "tag": "raw"}
+{"a": "bentossell", "l": 10, "t": "0429", "s": "omg i should check my posts replies more often 🥹", "tag": "raw"}
+{"a": "bentossell", "l": 34, "t": "0429", "s": "5.5 in codex just synced all my memories and files to a cloud agent drive 🔥 2.5k files 😳", "tag": "raw"}
+{"a": "bentossell", "l": 16, "t": "0429", "s": "it’s bad", "tag": "raw"}
+{"a": "HuggingFace", "l": 1774, "t": "0424", "s": "🐳 is back!", "tag": "raw"}
+{"a": "HuggingFace", "l": 653, "t": "0420", "s": "new open coding sota 🤗", "tag": "raw"}
+{"a": "HuggingFace", "l": 975, "t": "0404", "s": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M ...", "tag": "raw"}
+{"a": "MistralAI", "l": 1938, "t": "0428", "s": "Today, we're releasing the public preview of Workflows, the orchestration layer for enterprise AI.", "tag": "raw"}
+{"a": "MistralAI", "l": 4621, "t": "0326", "s": "Introducing Voxtral TTS: our new frontier open-weight model for natural, expressive, and ultra-fast text-to-speech", "tag": "raw"}
+{"a": "MistralAI", "l": 378, "t": "0409", "s": "Mistral’s AI Now Summit is coming to Paris on May 28 and tickets are live!", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1799, "t": "0422", "s": "We've published new research on how we post-train models for accurate search-augmented answers.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1657, "t": "0416", "s": "Claude Opus 4.7 is now the default orchestration model powering Computer.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1266, "t": "0424", "s": "GPT-5.5 is now available on Perplexity for Max subscribers.", "tag": "raw"}
+{"a": "GroqInc", "l": 2405, "t": "1224", "s": "Groq has entered into a non-exclusive licensing agreement with Nvidia for Groq’s inference technology.", "tag": "raw"}
+{"a": "GroqInc", "l": 328, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 89, "t": "1222", "s": "Pros Under Pressure, Part 2: The Swap", "tag": "raw"}

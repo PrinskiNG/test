@@ -1,0 +1,62 @@
+{
+  "tualatrix": {
+    "total": 10,
+    "max_l": 14,
+    "latest": "0429"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 11,
+    "latest": "0429"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 34,
+    "latest": "0429"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 1774,
+    "latest": "0428"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 4621,
+    "latest": "0428"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 1799,
+    "latest": "0424"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2405,
+    "latest": "0218"
+  }
+}
