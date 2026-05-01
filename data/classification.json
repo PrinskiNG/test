@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "classification": {
     "tualatrix": "B",
     "linyunqiu": "inactive",
@@ -7,6 +7,12 @@
     "web3buidl": "inactive",
     "AI_Era": "inactive",
     "AIGC_News": "inactive",
+    "jiangjiang": "inactive",
+    "hw_star": "inactive",
+    "mranti": "B",
+    "nishuang": "B",
+    "a16z": "B",
+    "ycombinator": "B",
     "Scobleizer": "B",
     "bentossell": "B",
     "HuggingFace": "A",

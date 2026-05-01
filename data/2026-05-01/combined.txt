@@ -1,0 +1,41 @@
+{"a": "tualatrix", "l": 67, "t": "0430", "s": "娃已经到了随时会吃手、并且吃得香喷喷的月龄了。", "tag": "raw"}
+{"a": "tualatrix", "l": 46, "t": "0430", "s": "看着这位村民打磨了这款产品整整两年，到今天终于上架了！👏", "tag": "raw"}
+{"a": "tualatrix", "l": 15, "t": "0430", "s": "今天 @riverleaf88 带来他的 Insta360 Go3S 给我玩。现在我有点纠结是买 DJI 还是 Insta360 了。", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? I haven't received any email updates from you, just found out from @HeathrowAirport that the flight today is cancelled.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "@takumiP @RocketNews24  ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 63, "t": "0429", "s": "感谢，收到了小米赠送的2亿Token，我测试下，和Deepseek V4 Pro对比对比。", "tag": "raw"}
+{"a": "mranti", "l": 24, "t": "0429", "s": "这不是宇树G1吗？1.35万美元一台。能武术、自然搬东西不会有问题。", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0429", "s": "开始是拿不到邀请码，后来是不肯先花钱。", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "为什么苹果要搞“没必要”的创新 不管是难用的 iOS 18 相册，还是十年用不上一次的卫星通信，或者 iPhone 17 Pro “前后摄像头同时拍摄”的传闻功能…这些“没必要”创新背后都有充分理由", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化 好久没黑多邻国和 Anki 了，今天继续", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战而新增的成本", "tag": "raw"}
+{"a": "a16z", "l": 692, "t": "0429", "s": ".@pmarca on the 5 key traits of a real innovator: 1. Just flat-out open to new ideas...", "tag": "raw"}
+{"a": "a16z", "l": 639, "t": "0428", "s": "Workday is arguably the most important and least loved product in enterprise software.", "tag": "raw"}
+{"a": "a16z", "l": 324, "t": "0430", "s": ".@pmarca says AI is the biggest technological revolution of his life: This is the biggest technological revolution of my life. This is clearly bigger than the internet.", "tag": "raw"}
+{"a": "ycombinator", "l": 761, "t": "0429", "s": "Congrats to @TryLance on their $5M seed! Lance builds AI agents that run hotel operations...", "tag": "raw"}
+{"a": "ycombinator", "l": 467, "t": "0429", "s": "This summer we're launching YC Paper Club to bring researchers & builders together.", "tag": "raw"}
+{"a": "ycombinator", "l": 251, "t": "0429", "s": "The deadline to apply for the YC Summer 2026 batch is coming up in five days! Apply by May 4th:", "tag": "raw"}
+{"a": "Scobleizer", "l": 68, "t": "0430", "s": "Autonomous trucking is here. They certainly are inspired by Dyson. Yup. Running alignednews.com/ai costs me about $100 a day.", "tag": "raw"}
+{"a": "Scobleizer", "l": 10, "t": "0430", "s": "When are you gonna be in SF? I'll be there next Thursday.", "tag": "raw"}
+{"a": "Scobleizer", "l": 5, "t": "0430", "s": "40,000 of them (look for my AI Community lists)", "tag": "raw"}
+{"a": "bentossell", "l": 73, "t": "0430", "s": "codex 🤜🤜🤜 cowork race begins. im floored by the feedback i got on this. one of the best companies out there go work with evan", "tag": "raw"}
+{"a": "bentossell", "l": 47, "t": "0430", "s": "one of the best companies out there go work with evan", "tag": "raw"}
+{"a": "bentossell", "l": 32, "t": "0430", "s": "im floored by the feedback i got on this", "tag": "raw"}
+{"a": "HuggingFace", "l": 1773, "t": "0424", "s": "🐳 is back! new open coding sota 🤗 Let's go!", "tag": "raw"}
+{"a": "HuggingFace", "l": 975, "t": "0404", "s": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M openclaw onboard", "tag": "raw"}
+{"a": "HuggingFace", "l": 653, "t": "0420", "s": "new open coding sota 🤗", "tag": "raw"}
+{"a": "MistralAI", "l": 4621, "t": "0326", "s": "🔊Introducing Voxtral TTS: our new frontier open-weight model for natural, expressive, and ultra-fast text-to-speech", "tag": "raw"}
+{"a": "MistralAI", "l": 1973, "t": "0428", "s": "Today, we're releasing the public preview of Workflows, the orchestration layer for enterprise AI.", "tag": "raw"}
+{"a": "MistralAI", "l": 381, "t": "0409", "s": "Mistral’s AI Now Summit is coming to Paris on May 28 and tickets are live!", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1799, "t": "0422", "s": "We've published new research on how we post-train models for accurate search-augmented answers.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1657, "t": "0416", "s": "Claude Opus 4.7 is now the default orchestration model powering Computer.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1516, "t": "0423", "s": "Kimi K2.6, the new state-of-the-art open-weight model from Moonshot, is now available for Pro and Max subscribers.", "tag": "raw"}
+{"a": "GroqInc", "l": 2404, "t": "1224", "s": "Groq has entered into a non-exclusive licensing agreement with Nvidia for Groq’s inference technology.", "tag": "raw"}
+{"a": "GroqInc", "l": 328, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 89, "t": "1222", "s": "Pros Under Pressure, Part 2: The Swap", "tag": "raw"}
