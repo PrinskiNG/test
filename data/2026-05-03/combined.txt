@@ -1,0 +1,108 @@
+{"a": "elonmusk", "l": 91852, "t": "0502", "s": "This was before Starlink had a name", "tag": "raw"}
+{"a": "elonmusk", "l": 43397, "t": "0502", "s": "True", "tag": "raw"}
+{"a": "elonmusk", "l": 55641, "t": "0502", "s": "The trend keeps going", "tag": "raw"}
+{"a": "sama", "l": 5163, "t": "0502", "s": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter but it seems that just being smarter is still the most important thing", "tag": "raw"}
+{"a": "sama", "l": 842, "t": "0502", "s": "mogging", "tag": "raw"}
+{"a": "sama", "l": 474, "t": "0502", "s": "thats nice but i really like that you first list being a dad in your bio", "tag": "raw"}
+{"a": "karpathy", "l": 42874, "t": "0430", "s": "This is the the quote I've been citing a lot recently.", "tag": "raw"}
+{"a": "karpathy", "l": 5292, "t": "0430", "s": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:", "tag": "raw"}
+{"a": "karpathy", "l": 2334, "t": "0430", "s": "Haha yeah I call it cozy coding :)", "tag": "raw"}
+{"a": "demishassabis", "l": 2193, "t": "0501", "s": "It’s incredible! Banksy is a genius.", "tag": "raw"}
+{"a": "demishassabis", "l": 2715, "t": "0430", "s": "Not bad at all… 😀🚀", "tag": "raw"}
+{"a": "demishassabis", "l": 962, "t": "0501", "s": "Really enjoyed this conversation - thanks again @garrytan for hosting!", "tag": "raw"}
+{"a": "darioamodei", "l": 12159, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on.", "tag": "raw"}
+{"a": "darioamodei", "l": 15374, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them", "tag": "raw"}
+{"a": "darioamodei", "l": 868, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models, but it won’t be the last.", "tag": "raw"}
+{"a": "OpenAI", "l": 8078, "t": "0501", "s": "One week since the launch of GPT-5.5, and it’s already our strongest model launch yet.", "tag": "raw"}
+{"a": "OpenAI", "l": 5672, "t": "0430", "s": "It's never been easier to do everyday work with Codex.", "tag": "raw"}
+{"a": "OpenAI", "l": 3132, "t": "0501", "s": "Bring your workflow to Codex in just a few clicks.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 3305, "t": "0430", "s": "How do people seek guidance from Claude? We looked at 1M conversations...", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2414, "t": "0429", "s": "New on the Science Blog: We gave Claude 99 problems analyzing real biological data...", "tag": "raw"}
+{"a": "AnthropicAI", "l": 495, "t": "0430", "s": "About 6% of all conversations are people asking Claude for personal guidance...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1151, "t": "0430", "s": "AI co-clinician is our new research initiative to help explore how multimodal agents could better support healthcare workers and patients.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 524, "t": "0501", "s": "Think your vibe coding and creativity could be on the #GoogleIO main stage?", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 2193, "t": "0429", "s": "It was a huge honour to meet with President @Jaemyung_Lee in Seoul.", "tag": "raw"}
+{"a": "xAI", "l": 22209, "t": "0403", "s": "Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model.", "tag": "raw"}
+{"a": "xAI", "l": 18145, "t": "0423", "s": "Introducing Grok Voice Think Fast 1.0", "tag": "raw"}
+{"a": "xAI", "l": 10106, "t": "0501", "s": "Voice Cloning is now live via the xAI API!", "tag": "raw"}
+{"a": "AIatMeta", "l": 1196, "t": "0424", "s": "Today we’re announcing an agreement with Amazon Web Services to bring tens of millions of AWS Graviton cores to our compute portfolio.", "tag": "raw"}
+{"a": "AIatMeta", "l": 645, "t": "0410", "s": "🔜", "tag": "raw"}
+{"a": "AIatMeta", "l": 33, "t": "0501", "s": "Welcome to the team! 🚀", "tag": "raw"}
+{"a": "GoogleAI", "l": 2329, "t": "0430", "s": "Last week, we made Gemini Embedding 2... available to the general public.", "tag": "raw"}
+{"a": "GoogleAI", "l": 444, "t": "0501", "s": "I/O is less than 3 weeks away 🤯 We want YOU to help us create the countdown...", "tag": "raw"}
+{"a": "GoogleAI", "l": 1482, "t": "0420", "s": "Calling all builders 🛠️📣 Google AI Pro and Ultra subscribers will now get increased usage limits...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 479, "t": "0427", "s": "Coming May 14 at Microsoft Research Forum: a new release and demo from MSR AI Frontiers.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 297, "t": "0423", "s": "Congratulations to Philippe Laban, Jennifer Neville, and collaborators on their Best Paper Award at ICLR 2026...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 57, "t": "0430", "s": "Safe agents don’t guarantee a safe ecosystem of interconnected agents.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 306, "t": "0502", "s": "Of course Sam is busier than ever. OpenAI is in deep trouble...", "tag": "raw"}
+{"a": "GaryMarcus", "l": 83, "t": "0502", "s": "Of course Sam is busier than ever...", "tag": "raw"}
+{"a": "GaryMarcus", "l": 45, "t": "0502", "s": "The Simpsons, on the trillion dollar buildout for GenAI.", "tag": "raw"}
+{"a": "rowancheung", "l": 1363, "t": "0422", "s": "MIT researchers just replicated human muscles with AI-controlled fibers.", "tag": "raw"}
+{"a": "rowancheung", "l": 231, "t": "0427", "s": "I'm HIRING 5 more people to help me build the future of AI media.", "tag": "raw"}
+{"a": "clmcleod", "l": 1, "t": "0822", "s": "Thanks for these Britney!! I haven't laughed this hard since this whole pandemic began. <3 :)", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle or a horseshoe crab on the floor they stay put with no container..lol...touch the crab he rolls over..touch the turtle and he hisses at you", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog...please let us know how you 'kindly respond'", "tag": "raw"}
+{"a": "bindureddy", "l": 694, "t": "0501", "s": "Grok 4.3 launched today 🚀 It is as smart as Sonnet 4.6 and 5x cheaper and faster", "tag": "raw"}
+{"a": "bindureddy", "l": 520, "t": "0502", "s": "DeepSeek V4 flash is not getting the attention it deserves", "tag": "raw"}
+{"a": "bindureddy", "l": 342, "t": "0501", "s": "Kimi 2.6 and GLM 5.1 are insanely close to closed AI in performance", "tag": "raw"}
+{"a": "dotey", "l": 175, "t": "0501", "s": "Apple 发布 Apple Support App（v5.13）时，把 Claude.md 也一起发出来了😂", "tag": "raw"}
+{"a": "dotey", "l": 130, "t": "0502", "s": "值得试试，挺有价值的，让 Codex 帮你分析电脑操作习惯+Codex任务执行情况，给出具体的对工作习惯上的优化建议。", "tag": "raw"}
+{"a": "dotey", "l": 95, "t": "0502", "s": "为了省 $25，不值得…", "tag": "raw"}
+{"a": "oran_ge", "l": 110, "t": "0502", "s": "刚看完人类神书 GEB（哥德尔、埃舍尔、巴赫）的讲解。", "tag": "raw"}
+{"a": "oran_ge", "l": 25, "t": "0502", "s": "塔勒布的 skin in the game 完美解释了为什么 talk is cheap", "tag": "raw"}
+{"a": "oran_ge", "l": 18, "t": "0502", "s": "做马桶的 Toto 也是 AI 概念股了", "tag": "raw"}
+{"a": "vista8", "l": 198, "t": "0502", "s": "本周 HuggingFace 热度第一的论文：RecursiveMAS（递归多Agent系统）", "tag": "raw"}
+{"a": "vista8", "l": 84, "t": "0502", "s": "想让你的博客或网站的中文排版更优雅？", "tag": "raw"}
+{"a": "vista8", "l": 56, "t": "0502", "s": "Mario Zner 是 Pi 的创建者。", "tag": "raw"}
+{"a": "tualatrix", "l": 495, "t": "0502", "s": "马斯克只要弄一个：只允许注册超过 90 天的人来评论，大概 99.99% 的 SPAM 都可以被挡住了。", "tag": "raw"}
+{"a": "tualatrix", "l": 43, "t": "0502", "s": "原来 GPT 5.5 已经打破了 Mythos 的神话。所以说，不要相信 Anthropic 的「恐怖驱动的营销」。", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? ...", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "NA", "s": "", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 95, "t": "0502", "s": "我刚才终于触发了这个猫咪出现了，特别霸道。", "tag": "raw"}
+{"a": "mranti", "l": 86, "t": "0502", "s": "张雪机车第三次夺冠。", "tag": "raw"}
+{"a": "mranti", "l": 34, "t": "0502", "s": "我让gpt-image-2画了一个能让SOTA大模型降价到10分之一的道符，贡献给大家", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "为什么苹果要搞“没必要”的创新...", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化...", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone...", "tag": "raw"}
+{"a": "a16z", "l": 2553, "t": "0501", "s": "Scrolling is on the decline", "tag": "raw"}
+{"a": "a16z", "l": 1138, "t": "0501", "s": ".@pmarca explains how cookies work (1995)", "tag": "raw"}
+{"a": "a16z", "l": 513, "t": "0501", "s": "AI isn't the first tech cycle where semis and infra drove early growth", "tag": "raw"}
+{"a": "ycombinator", "l": 688, "t": "0501", "s": "We're excited to announce @sama as a keynote speaker at Startup School!", "tag": "raw"}
+{"a": "ycombinator", "l": 458, "t": "0501", "s": "A 7-million parameter model outperforming models a thousand times its size...", "tag": "raw"}
+{"a": "ycombinator", "l": 195, "t": "0501", "s": "The deadline to apply for the YC Summer 2026 batch is this Monday...", "tag": "raw"}
+{"a": "lightspeedvp", "l": 20, "t": "0430", "s": "Superintelligence is a hot topic... Sebastian Mallaby...", "tag": "raw"}
+{"a": "lightspeedvp", "l": 13, "t": "0501", "s": "We all need more human-centered stories about AI.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 11, "t": "0429", "s": "The Silicon Valley Racing Mafia is a real thing...", "tag": "raw"}
+{"a": "sequoia", "l": 135, "t": "0427", "s": "AI Ascent videos out starting tomorrow 👀", "tag": "raw"}
+{"a": "sequoia", "l": 24, "t": "0430", "s": "Thank you @karpathy for a wonderful talk.", "tag": "raw"}
+{"a": "sequoia", "l": 22, "t": "0422", "s": "Thanks to our community for making this the best AI Ascent yet.", "tag": "raw"}
+{"a": "foundersfund", "l": 645, "t": "0612", "s": "Part I: The Prophet", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III: The Gospel", "tag": "raw"}
+{"a": "eladgil", "l": 169, "t": "0429", "s": "What is best Italian in SF?", "tag": "raw"}
+{"a": "eladgil", "l": 155, "t": "0429", "s": "Really enjoyed this conversation w @tferriss", "tag": "raw"}
+{"a": "eladgil", "l": 53, "t": "0430", "s": "🔥", "tag": "raw"}
+{"a": "pmarca", "l": 2333, "t": "0502", "s": "Oof.", "tag": "raw"}
+{"a": "pmarca", "l": 952, "t": "0502", "s": "Typical California resident:", "tag": "raw"}
+{"a": "pmarca", "l": 603, "t": "0502", "s": "I have nothing but respect for seed fund cannons.", "tag": "raw"}
+{"a": "bchesky", "l": 2650, "t": "0319", "s": "As one of the other board members, I can say that Garry is doing an exceptional job.", "tag": "raw"}
+{"a": "bchesky", "l": 1032, "t": "0403", "s": "We follow this model", "tag": "raw"}
+{"a": "bchesky", "l": 441, "t": "0313", "s": "Congrats!!!!", "tag": "raw"}
+{"a": "chamath", "l": 866, "t": "0501", "s": "https://x.com/i/article/2050271151335858176", "tag": "raw"}
+{"a": "chamath", "l": 666, "t": "0502", "s": "This is really bad. I love Italy.", "tag": "raw"}
+{"a": "chamath", "l": 411, "t": "0502", "s": "How much data did we need before we understood the harmful societal effects of smoking...", "tag": "raw"}
+{"a": "paulg", "l": 3911, "t": "0501", "s": "Don't join a company or industry that has contempt for its customers.", "tag": "raw"}
+{"a": "paulg", "l": 1896, "t": "0501", "s": "This is an instance of the more general principle: If you are graduating university and are about to join a consulting firm, don't do that.", "tag": "raw"}
+{"a": "paulg", "l": 280, "t": "0501", "s": "I was trying to think what's the opposite of this kind of company... the answer is YC.", "tag": "raw"}
+{"a": "TheInformation", "l": 21, "t": "0502", "s": "xAI’s GPU fleet is running at about 11% utilization...", "tag": "raw"}
+{"a": "TheInformation", "l": 14, "t": "0502", "s": "Founders Fund is investing $624 million more into Anduril...", "tag": "raw"}
+{"a": "TheInformation", "l": 6, "t": "0502", "s": "Exclusive: SpaceX’s Starlink quadrupled subscribers to 8.9 million...", "tag": "raw"}
