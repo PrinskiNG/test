@@ -1,0 +1,11 @@
+{"a": "lexfridman", "l": 2086, "t": "0409", "s": "Conversation with historian Lars Brownworth on Vikings: from Viking Age start to conquests, military tactics, Ragnar Lothbrok, explorations, and more. Full episode links provided.", "tag": "raw"}
+{"a": "lexfridman", "l": 13536, "t": "0407", "s": "Grateful for life, acknowledges flaws and mental challenges from world leader convos, commits to more understanding and talking to everyday people. Shared during a run.", "tag": "raw"}
+{"a": "lexfridman", "l": 12379, "t": "0323", "s": "Conversation with Jensen Huang on NVIDIA, AI stack engineering, leadership, supply chain, consciousness, and more. Detailed timestamps and links provided.", "tag": "raw"}
+{"a": "hubermanlab", "l": 19, "t": "0505", "s": "Thank you!", "tag": "raw"}
+{"a": "hubermanlab", "l": 3, "t": "0504", "s": "Indeed!", "tag": "raw"}
+{"a": "hubermanlab", "l": 4, "t": "0504", "s": "Thank you! This episode extends beyond previous series with cool takeaways and a unique perspective on mental health.", "tag": "raw"}
+{"a": "hubermanlab", "l": 27, "t": "0504", "s": "Link to new episode: Tools to Bolster Your Mental Health and Confidence with Paul Conti.", "tag": "raw"}
+{"a": "hubermanlab", "l": 224, "t": "0504", "s": "New Huberman Lab episode out: Tools to Bolster Your Mental Health & Confidence with Dr. Paul Conti. Focus on what's going right for generative actions.", "tag": "raw"}
+{"a": "swyx", "l": 10, "t": "0505", "s": "Comment on crediting original source for a workshop post about OpenAI Codex masterclass on agents and subagents.", "tag": "raw"}
+{"a": "swyx", "l": 5, "t": "0504", "s": "Shared chart comparing OAI and Ant valuations and ARR figures, with notes on revenue recognition differences.", "tag": "raw"}
+{"a": "swyx", "l": 3, "t": "0505", "s": "Reply agreeing enthusiastically with a statement.", "tag": "raw"}

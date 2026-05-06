@@ -1,0 +1,22 @@
+{
+  "aipubcast": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "lexfridman": {
+    "total": 10,
+    "max_l": 13558,
+    "latest": "0409"
+  },
+  "hubermanlab": {
+    "total": 10,
+    "max_l": 1238,
+    "latest": "0505"
+  },
+  "swyx": {
+    "total": 10,
+    "max_l": 10,
+    "latest": "0505"
+  }
+}
