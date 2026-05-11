@@ -1,0 +1,227 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 190329,
+    "latest": "0510"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 7606,
+    "latest": "0510"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 44115,
+    "latest": "0501"
+  },
+  "demishassabis": {
+    "total": 10,
+    "max_l": 2932,
+    "latest": "0509"
+  },
+  "darioamodei": {
+    "total": 10,
+    "max_l": 12209,
+    "latest": "0407"
+  },
+  "OpenAI": {
+    "total": 10,
+    "max_l": 2957,
+    "latest": "0508"
+  },
+  "AnthropicAI": {
+    "total": 10,
+    "max_l": 8986,
+    "latest": "0508"
+  },
+  "GoogleDeepMind": {
+    "total": 10,
+    "max_l": 1417,
+    "latest": "0507"
+  },
+  "xAI": {
+    "total": 10,
+    "max_l": 25096,
+    "latest": "0507"
+  },
+  "AIatMeta": {
+    "total": 10,
+    "max_l": 1199,
+    "latest": "0424"
+  },
+  "GoogleAI": {
+    "total": 10,
+    "max_l": 2498,
+    "latest": "0508"
+  },
+  "MSFTResearch": {
+    "total": 10,
+    "max_l": 2295,
+    "latest": "0427"
+  },
+  "IlyaSutskever": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "gregbrockman": {
+    "total": 10,
+    "max_l": 2,
+    "latest": "0308"
+  },
+  "GaryMarcus": {
+    "total": 10,
+    "max_l": 111,
+    "latest": "0510"
+  },
+  "rowancheung": {
+    "total": 10,
+    "max_l": 312,
+    "latest": "0504"
+  },
+  "clmcleod": {
+    "total": 10,
+    "max_l": 1,
+    "latest": "0822"
+  },
+  "bindureddy": {
+    "total": 10,
+    "max_l": 2669,
+    "latest": "0510"
+  },
+  "dotey": {
+    "total": 10,
+    "max_l": 205,
+    "latest": "0510"
+  },
+  "oran_ge": {
+    "total": 10,
+    "max_l": 13,
+    "latest": "0510"
+  },
+  "vista8": {
+    "total": 10,
+    "max_l": 84,
+    "latest": "0510"
+  },
+  "imxiaohu": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "Sxsyer": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "K_O_D_A_D_A": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "tualatrix": {
+    "total": 10,
+    "max_l": 53,
+    "latest": "0510"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "jiangjiang": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "hw_star": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "mranti": {
+    "total": 10,
+    "max_l": 61,
+    "latest": "0510"
+  },
+  "nishuang": {
+    "total": 8,
+    "max_l": 37,
+    "latest": "0409"
+  },
+  "a16z": {
+    "total": 10,
+    "max_l": 2469,
+    "latest": "0508"
+  },
+  "ycombinator": {
+    "total": 10,
+    "max_l": 763,
+    "latest": "0509"
+  },
+  "lightspeedvp": {
+    "total": 10,
+    "max_l": 25,
+    "latest": "0509"
+  },
+  "sequoia": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0508"
+  },
+  "foundersfund": {
+    "total": 10,
+    "max_l": 644,
+    "latest": "0701"
+  },
+  "chamath": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "paulg": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "TheInformation": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "TechCrunch": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "verge": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "WIRED": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  }
+}

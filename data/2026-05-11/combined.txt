@@ -1,0 +1,90 @@
+{"a": "elonmusk", "l": 1548, "t": "0510", "s": "It’s come a long way", "tag": "raw"}
+{"a": "elonmusk", "l": 902, "t": "0510", "s": "💯", "tag": "raw"}
+{"a": "elonmusk", "l": 645, "t": "0510", "s": "Grok analysis", "tag": "raw"}
+{"a": "sama", "l": 583, "t": "0510", "s": "as i get older and wiser, so do i", "tag": "raw"}
+{"a": "sama", "l": 1880, "t": "0510", "s": "interesting (on Codex making money autonomously)", "tag": "raw"}
+{"a": "karpathy", "l": 40, "t": "0501", "s": "Very tempting due to how well this works though I still find that some slop leaks through...", "tag": "raw"}
+{"a": "karpathy", "l": 389, "t": "0430", "s": "VPT blew my mind... excited to see SI scale up the idea with FDM1", "tag": "raw"}
+{"a": "karpathy", "l": 44115, "t": "0430", "s": "This is the quote I've been citing a lot recently: you can outsource your thinking but you cannot outsource your understanding", "tag": "raw"}
+{"a": "demishassabis", "l": 55, "t": "0510", "s": "Also if you're interested... watch the brilliant award-winning documentary film here", "tag": "raw"}
+{"a": "demishassabis", "l": 283, "t": "0509", "s": "Also wonderful to visit the Google Korea office...", "tag": "raw"}
+{"a": "demishassabis", "l": 657, "t": "0509", "s": "We've come a long way in that 10 years. Korean billboards in 2016 vs 2026", "tag": "raw"}
+{"a": "darioamodei", "l": 886, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models...", "tag": "raw"}
+{"a": "darioamodei", "l": 1077, "t": "0407", "s": "The dangers of getting this wrong are obvious...", "tag": "raw"}
+{"a": "darioamodei", "l": 465, "t": "0407", "s": "Glasswing is just the first step...", "tag": "raw"}
+{"a": "OpenAI", "l": 143, "t": "0508", "s": "Training models involves many technical and social processes...", "tag": "raw"}
+{"a": "OpenAI", "l": 218, "t": "0508", "s": "We also had three third-party AI safety organizations provide feedback...", "tag": "raw"}
+{"a": "OpenAI", "l": 266, "t": "0508", "s": "This system helped us identify this happened for some of our prior Instant and mini models.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 563, "t": "0508", "s": "Read the full post here", "tag": "raw"}
+{"a": "AnthropicAI", "l": 703, "t": "0508", "s": "Finally, simple updates that diversify a model’s training data can make a difference.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 710, "t": "0508", "s": "The improvements from these interventions survive reinforcement learning...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1417, "t": "0507", "s": "Algorithms are part of nearly every aspect of life... AlphaEvolve has been accelerating progress", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1879, "t": "0506", "s": "We’re partnering with the developers of EVE Online to explore the next frontier of AI research in games.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 104, "t": "0501", "s": "Things to keep in mind: Base your creations around the numbers 1-10", "tag": "raw"}
+{"a": "xAI", "l": 372, "t": "0507", "s": "Try it now for free: Grok Voice agent", "tag": "raw"}
+{"a": "xAI", "l": 4650, "t": "0507", "s": "Your customer support needs a voice agent built for the real world.", "tag": "raw"}
+{"a": "xAI", "l": 3744, "t": "0507", "s": "Image Generation Quality Mode is now available on the xAI API.", "tag": "raw"}
+{"a": "AIatMeta", "l": 39, "t": "0501", "s": "Welcome to the team! 🚀", "tag": "raw"}
+{"a": "AIatMeta", "l": 1199, "t": "0424", "s": "Today we’re announcing an agreement with Amazon Web Services to bring tens of millions of AWS Graviton cores...", "tag": "raw"}
+{"a": "AIatMeta", "l": 26, "t": "0415", "s": "Great to see this research out in the world...", "tag": "raw"}
+{"a": "GoogleAI", "l": 659, "t": "0508", "s": "Happy Friday! We’re officially 11 days away from I/O...", "tag": "raw"}
+{"a": "GoogleAI", "l": 44, "t": "0501", "s": "We can’t wait to see where your creativity takes you.", "tag": "raw"}
+{"a": "GoogleAI", "l": 78, "t": "0501", "s": "And this sample project was created on Canvas...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 33, "t": "0507", "s": "Tyger moves the most demanding MRI processing to the cloud...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 29, "t": "0506", "s": "Designing AI isn’t just about performance...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 14, "t": "0505", "s": "Microsoft researchers share advances in building and operating large-scale distributed systems...", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0510", "s": "um, I didn’t declare it and i am not trying to regulate it to the point of being useless.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0510", "s": "i agree with the general point, for sure.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0510", "s": "just goes to the silliness of the entire chart, imho", "tag": "raw"}
+{"a": "rowancheung", "l": 12, "t": "0504", "s": "Meta is planning to power its AI data centers with solar energy beamed from space.", "tag": "raw"}
+{"a": "rowancheung", "l": 312, "t": "0504", "s": "Meta is planning to power its AI data centers with solar energy beamed from space.", "tag": "raw"}
+{"a": "rowancheung", "l": 20, "t": "0430", "s": "By the way, if you want to work with me...", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle or a horseshoe crab on the floor they stay put...", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog...", "tag": "raw"}
+{"a": "bindureddy", "l": 11, "t": "0510", "s": "This is based on extensive testing and multiple production scenarios", "tag": "raw"}
+{"a": "bindureddy", "l": 494, "t": "0510", "s": "It’s no longer a given that the next generation model will be better", "tag": "raw"}
+{"a": "bindureddy", "l": 355, "t": "0509", "s": "Google I/O will be a critical point in the evolution of the company", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0510", "s": "1. 如果能有自动化测试...", "tag": "raw"}
+{"a": "dotey", "l": 78, "t": "0510", "s": "Article link shared", "tag": "raw"}
+{"a": "dotey", "l": 205, "t": "0510", "s": "Article link shared", "tag": "raw"}
+{"a": "oran_ge", "l": 5, "t": "0510", "s": "最近抄袭 ColaOS 的项目越来越多了...", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0510", "s": "别怕 时间线有好几条呢", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0510", "s": "未来永远是证据不足的", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0510", "s": "配个图", "tag": "raw"}
+{"a": "vista8", "l": 32, "t": "0510", "s": "如果你喜欢到Huggingface读最新的AI论文。 可以安装官方的cli", "tag": "raw"}
+{"a": "vista8", "l": 10, "t": "0510", "s": "如果你喜欢到Huggingface读最新的AI论文。...配个图", "tag": "raw"}
+{"a": "tualatrix", "l": 22, "t": "0510", "s": "原来马上就要有「谷歌广州」了。", "tag": "raw"}
+{"a": "tualatrix", "l": 5, "t": "0510", "s": "Xcode 提醒更新 Codex 了，我还以为至少会更新到一个正式版，结果居然是 0.129.0-alpha.9。", "tag": "raw"}
+{"a": "tualatrix", "l": 21, "t": "0510", "s": "一不留神，2TB 硬盘都满了…下台电脑一定要买 4TB 了，等 2027 年的 M6 Max。", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? ...", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "@takumiP @RocketNews24  ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0510", "s": "人类操作完成度还不能绕。", "tag": "raw"}
+{"a": "mranti", "l": 3, "t": "0510", "s": "这个MDX也和Html区别不大了。其实的确只要解决md文件不能天然封装图片的问题就好了。", "tag": "raw"}
+{"a": "mranti", "l": 28, "t": "0509", "s": "如果说是整个高考和考试系统的话，如果这个系统不改革，那么AI也无法代替这些孩子通过考试。", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化 ... CapWords 学外语、背单词的方式，特别像玩“宝可梦”游戏搜集宝贝", "tag": "raw"}
+{"a": "nishuang", "l": 14, "t": "0409", "s": "Amie 大变身 ... 产品彻底转型，变成了提高会议效率的 AI 效率工具", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战", "tag": "raw"}
+{"a": "a16z", "l": 299, "t": "0508", "s": "AI is going mobile incredibly quickly Charts of the Week", "tag": "raw"}
+{"a": "a16z", "l": 312, "t": "0508", "s": "Customer service hiring is now outpacing the overall job market Charts of the Week", "tag": "raw"}
+{"a": "a16z", "l": 100, "t": "0508", "s": "Call centers aren't dead yet Charts of the Week", "tag": "raw"}
+{"a": "ycombinator", "l": 5, "t": "0509", "s": "Tune in: https://www.youtube.com/watch?v=_y7siiS-V5A", "tag": "raw"}
+{"a": "ycombinator", "l": 249, "t": "0509", "s": "https://trigger.dev/ lets developers add AI agents ... Over 90% of their usage now comes from agent workflows", "tag": "raw"}
+{"a": "ycombinator", "l": 15, "t": "0508", "s": "Tune in: https://www.youtube.com/watch?v=u2z44EkIEHE", "tag": "raw"}
+{"a": "lightspeedvp", "l": 6, "t": "0509", "s": "Congratulations to the team @Odyssey_Tx for joining Nasdaq today!", "tag": "raw"}
+{"a": "lightspeedvp", "l": 10, "t": "0507", "s": "As many companies have raced to adopt and scale AI programs ... CTRL+AI conference", "tag": "raw"}
+{"a": "lightspeedvp", "l": 12, "t": "0505", "s": "Congratulations to the @raindrop_ai team! 👏", "tag": "raw"}
+{"a": "sequoia", "l": 16, "t": "0506", "s": "View more from AI Ascent 2026 ...", "tag": "raw"}
+{"a": "sequoia", "l": 35, "t": "0506", "s": "@amspector100 and @bfspector of @flappyairplanes at AI Ascent 2026: The big AI wins so far ... data efficiency.", "tag": "raw"}
+{"a": "foundersfund", "l": 163, "t": "0701", "s": "Part IV: The Kingdom", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III: The Gospel", "tag": "raw"}
+{"a": "foundersfund", "l": 20, "t": "0624", "s": "Full interview: https://www.youtube.com/watch?v=wP2zcESIpOo", "tag": "raw"}

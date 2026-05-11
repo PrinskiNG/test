@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "classification": {
     "elonmusk": "S",
     "sama": "A",
@@ -10,7 +10,7 @@
     "AnthropicAI": "A",
     "GoogleDeepMind": "A",
     "xAI": "S",
-    "AIatMeta": "A",
+    "AIatMeta": "B",
     "GoogleAI": "A",
     "MSFTResearch": "A",
     "IlyaSutskever": "inactive",
@@ -40,11 +40,11 @@
     "lightspeedvp": "B",
     "sequoia": "B",
     "foundersfund": "inactive",
-    "eladgil": "A",
-    "pmarca": "A",
-    "bchesky": "A",
-    "chamath": "S",
-    "paulg": "A",
-    "TheInformation": "B"
+    "chamath": "inactive",
+    "paulg": "inactive",
+    "TheInformation": "inactive",
+    "TechCrunch": "inactive",
+    "verge": "inactive",
+    "WIRED": "inactive"
   }
 }
