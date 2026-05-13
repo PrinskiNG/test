@@ -1,0 +1,152 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 94026,
+    "latest": "0512"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 11330,
+    "latest": "0511"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 44316,
+    "latest": "0511"
+  },
+  "demishassabis": {
+    "total": 10,
+    "max_l": 10831,
+    "latest": "0512"
+  },
+  "DarioAmodei": {
+    "total": 10,
+    "max_l": 15370,
+    "latest": "0407"
+  },
+  "OpenAI": {
+    "total": 10,
+    "max_l": 11020,
+    "latest": "0511"
+  },
+  "AnthropicAI": {
+    "total": 10,
+    "max_l": 9166,
+    "latest": "0511"
+  },
+  "GoogleDeepMind": {
+    "total": 10,
+    "max_l": 4405,
+    "latest": "0512"
+  },
+  "xAI": {
+    "total": 10,
+    "max_l": 25228,
+    "latest": "0507"
+  },
+  "tualatrix": {
+    "total": 10,
+    "max_l": 38,
+    "latest": "0512"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "jiangjiang": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "hw_star": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "mranti": {
+    "total": 10,
+    "max_l": 165,
+    "latest": "0512"
+  },
+  "nishuang": {
+    "total": 8,
+    "max_l": 37,
+    "latest": "0409"
+  },
+  "a16z": {
+    "total": 10,
+    "max_l": 475,
+    "latest": "0508"
+  },
+  "ycombinator": {
+    "total": 10,
+    "max_l": 317,
+    "latest": "0512"
+  },
+  "lightspeedvp": {
+    "total": 10,
+    "max_l": 32,
+    "latest": "0512"
+  },
+  "sequoia": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0508"
+  },
+  "foundersfund": {
+    "total": 10,
+    "max_l": 644,
+    "latest": "0612"
+  },
+  "eladgil": {
+    "total": 10,
+    "max_l": 237,
+    "latest": "0512"
+  },
+  "pmarca": {
+    "total": 10,
+    "max_l": 618,
+    "latest": "0512"
+  },
+  "bchesky": {
+    "total": 10,
+    "max_l": 1075,
+    "latest": "0403"
+  },
+  "chamath": {
+    "total": 10,
+    "max_l": 6323,
+    "latest": "0512"
+  },
+  "paulg": {
+    "total": 10,
+    "max_l": 1109,
+    "latest": "0512"
+  },
+  "TheInformation": {
+    "total": 10,
+    "max_l": 15,
+    "latest": "0512"
+  }
+}
