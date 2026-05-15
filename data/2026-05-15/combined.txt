@@ -1,0 +1,68 @@
+{"a": "elonmusk", "l": 111359, "t": "0514", "s": "He actually did the meme 🤣🤣", "tag": "raw"}
+{"a": "elonmusk", "l": 29167, "t": "0514", "s": "Farage is lying", "tag": "raw"}
+{"a": "elonmusk", "l": 10492, "t": "0514", "s": "Grok Build", "tag": "raw"}
+{"a": "sama", "l": 924, "t": "0514", "s": "also all this:", "tag": "raw"}
+{"a": "sama", "l": 4228, "t": "0514", "s": "Codex in the ChatGPT mobile app!", "tag": "raw"}
+{"a": "sama", "l": 6292, "t": "0514", "s": "being a dad is the thing that has most exceeded already-high-expectations in my whole life", "tag": "raw"}
+{"a": "karpathy", "l": 17189, "t": "0511", "s": "This works really well btw... hot tip try ask for HTML.", "tag": "raw"}
+{"a": "karpathy", "l": 390, "t": "0430", "s": "VPT blew my mind back in 2022...", "tag": "raw"}
+{"a": "karpathy", "l": 44426, "t": "0430", "s": "This is the quote I've been citing a lot recently.", "tag": "raw"}
+{"a": "demishassabis", "l": 435, "t": "0513", "s": "one of my favourite scenes of all time!", "tag": "raw"}
+{"a": "demishassabis", "l": 2021, "t": "0512", "s": "Really cool work from the team reimagining the mouse pointer...", "tag": "raw"}
+{"a": "demishassabis", "l": 189, "t": "0512", "s": "Thanks for all your amazing support...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 902, "t": "0407", "s": "Cyber is the first clear and present danger...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 1100, "t": "0407", "s": "The dangers of getting this wrong are obvious...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 466, "t": "0407", "s": "Glasswing is just the first step...", "tag": "raw"}
+{"a": "OpenAI", "l": 1117, "t": "0514", "s": "Rolling out today as a preview...", "tag": "raw"}
+{"a": "OpenAI", "l": 11857, "t": "0514", "s": "You've been asking for this one... Codex in the ChatGPT mobile app.", "tag": "raw"}
+{"a": "OpenAI", "l": 2581, "t": "0513", "s": "Another reason to switch to Codex.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 1826, "t": "0514", "s": "We've published a paper... US and democratic allies hold the lead...", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2088, "t": "0514", "s": "We’re partnering with the Gates Foundation...", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2903, "t": "0511", "s": "Claude's Constitution is now an audiobook...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 273, "t": "0512", "s": "These capabilities are guiding how we think about the next generation of interfaces.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 221, "t": "0512", "s": "For decades, your mouse only tracked where you were pointing...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 270, "t": "0512", "s": "In the real world, we don't tend to speak in long paragraphs...", "tag": "raw"}
+{"a": "xai", "l": 5600, "t": "0514", "s": "An early beta of Grok Build...", "tag": "raw"}
+{"a": "xai", "l": 394, "t": "0507", "s": "Try it now for free:", "tag": "raw"}
+{"a": "xai", "l": 5118, "t": "0507", "s": "Your customer support needs a voice agent...", "tag": "raw"}
+{"a": "AIatMeta", "l": 39, "t": "0501", "s": "Welcome to the team! 🚀", "tag": "raw"}
+{"a": "AIatMeta", "l": 1203, "t": "0424", "s": "Today we’re announcing an agreement with Amazon Web Services...", "tag": "raw"}
+{"a": "AIatMeta", "l": 26, "t": "0415", "s": "Great to see this research out in the world...", "tag": "raw"}
+{"a": "GoogleAI", "l": 679, "t": "0508", "s": "Happy Friday! We’re officially 11 days away from I/O...", "tag": "raw"}
+{"a": "GoogleAI", "l": 46, "t": "0501", "s": "We can’t wait to see where your creativity takes you.", "tag": "raw"}
+{"a": "GoogleAI", "l": 84, "t": "0501", "s": "And this sample project was created on Canvas...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 33, "t": "0514", "s": "New releases from Microsoft Research, live in 1 hour.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 125, "t": "0513", "s": "Introducing GridSFM...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 112, "t": "0512", "s": "MatterSim is expanding...", "tag": "raw"}
+{"a": "GregBrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 204, "t": "0514", "s": "wading through bots and LLM-written replies here is getting more tedious...", "tag": "raw"}
+{"a": "GaryMarcus", "l": 6, "t": "0514", "s": "tell that to @geoffreyhinton", "tag": "raw"}
+{"a": "GaryMarcus", "l": 217, "t": "0514", "s": "140,000 fake citations in 2025 alone😠", "tag": "raw"}
+{"a": "rowancheung", "l": 14, "t": "0504", "s": "Source via Meta...", "tag": "raw"}
+{"a": "rowancheung", "l": 319, "t": "0504", "s": "Meta is planning to power its AI data centers with solar energy beamed from space.", "tag": "raw"}
+{"a": "rowancheung", "l": 22, "t": "0430", "s": "By the way, if you want to work with me...", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle...", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog...", "tag": "raw"}
+{"a": "bindureddy", "l": 3241, "t": "0514", "s": "Gemini 3.2 Flash - Capitalizing on DeepMind's clever distillation techniques...", "tag": "raw"}
+{"a": "bindureddy", "l": 1, "t": "0513", "s": "Are you a bot - this is insanely accurate", "tag": "raw"}
+{"a": "bindureddy", "l": 8, "t": "0513", "s": "Kimi, GLM and MiniMax are scrappy", "tag": "raw"}
+{"a": "dotey", "l": 92, "t": "0514", "s": "OpenAI 把 Codex 搬进了 ChatGPT 手机 App...", "tag": "raw"}
+{"a": "dotey", "l": 1, "t": "0514", "s": "比钓鱼好玩", "tag": "raw"}
+{"a": "dotey", "l": 36, "t": "0514", "s": "Cursor 的设计模式还挺好用的。", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0514", "s": "和它谈故事有什么意义呢，和它一起赚钱不好吗？", "tag": "raw"}
+{"a": "oran_ge", "l": 4, "t": "0514", "s": "我们不断地去思考协作的本质是什么...", "tag": "raw"}
+{"a": "oran_ge", "l": 5, "t": "0514", "s": "企业里的人+Agent 协作产品 Syncless 发布了", "tag": "raw"}
+{"a": "vista8", "l": 6, "t": "0514", "s": "刚安装了Raycast 的Beta版本，终于支持了Agent和Skill。", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0514", "s": "没字幕的好像也支持...", "tag": "raw"}
+{"a": "vista8", "l": 1, "t": "0514", "s": "会的，可能会有一定风险", "tag": "raw"}
+{"a": "tualatrix", "l": 47, "t": "0514", "s": "This year, there aren't many people still writing technical科普 articles like this.", "tag": "raw"}
+{"a": "tualatrix", "l": 66, "t": "0514", "s": "Used to envy high-energy people until one appeared next to me - it's my kid.", "tag": "raw"}
+{"a": "tualatrix", "l": 19, "t": "0514", "s": "After work (off work), saw a rainbow on the way home!", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? Haven't received email updates.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
