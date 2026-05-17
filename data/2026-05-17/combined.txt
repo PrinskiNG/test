@@ -1,0 +1,59 @@
+{"a": "tualatrix", "l": 0, "t": "0516", "s": "Woke up early to work. (with image)", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0516", "s": "Must do!", "tag": "raw"}
+{"a": "tualatrix", "l": 2, "t": "0516", "s": "Mom is holding him, haha.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Complained about Air China flight cancellation and asked for options or refund.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11 o'clock lu (old post from 2007)", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "The house in Tohoku is huge... (old Japanese post)", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan each have their own thoughts.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Nostradamus dam suuuu (reply)", "tag": "raw"}
+{"a": "mranti", "l": 73, "t": "0515", "s": "Joked about Huang Renxun being one of us after seeing him in Beijing, lucky he didn't give Trump douzhi.", "tag": "raw"}
+{"a": "mranti", "l": 131, "t": "0515", "s": "Questioned if benefits to Chinese people are not big enough, calling out foolish views.", "tag": "raw"}
+{"a": "mranti", "l": 79, "t": "0515", "s": "Critiqued Japanese media reporting on high-level calls, questioning why US President reports to them.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "Discussed game-like design vs gamification in apps like CapWords for language learning.", "tag": "raw"}
+{"a": "nishuang", "l": 14, "t": "0409", "s": "Amie app redesign to AI efficiency tool for meetings.", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "Apple flew 5 planes of iPhones to avoid tariffs; inventory lasts months.", "tag": "raw"}
+{"a": "a16z", "l": 337, "t": "0516", "s": "Mounting evidence of productivity lift across high-AI industries. Charts of the Week.", "tag": "raw"}
+{"a": "a16z", "l": 377, "t": "0515", "s": "Sheer volume of demand for memory is wild. Charts on memory bottleneck.", "tag": "raw"}
+{"a": "a16z", "l": 302, "t": "0515", "s": "Memory bottleneck led to epic quarter for leading memory makers.", "tag": "raw"}
+{"a": "ycombinator", "l": 217, "t": "0516", "s": "Elyra AI reservation system for restaurants filling tables. Congrats on launch.", "tag": "raw"}
+{"a": "ycombinator", "l": 409, "t": "0516", "s": "Thanks for a great time, India.", "tag": "raw"}
+{"a": "ycombinator", "l": 904, "t": "0515", "s": "Clicky AI buddy spawns agents, sees screen, makes docs etc. Try for free.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 102, "t": "0515", "s": "Announced co-leading $31.2M Seed in Luel, marketplace for multimodal AI training data.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 22, "t": "0515", "s": "Event recap with Sebastian Mallaby on Demis Hassabis and The Infinity Machine.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 12, "t": "0514", "s": "Thinking Machines AI works collaboratively with humans in real time.", "tag": "raw"}
+{"a": "sequoia", "l": 29, "t": "0508", "s": "Quote on robotics from DrJimFan talk at AI Ascent.", "tag": "raw"}
+{"a": "sequoia", "l": 18, "t": "0506", "s": "Shared more from AI Ascent 2026 talks.", "tag": "raw"}
+{"a": "sequoia", "l": 35, "t": "0506", "s": "Flappy Airplanes founders on data efficiency at AI Ascent.", "tag": "raw"}
+{"a": "foundersfund", "l": 163, "t": "0701", "s": "Shared Part IV on Founders Fund power in The Kingdom series.", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Shared Part III on The Gospel of Founders Fund.", "tag": "raw"}
+{"a": "foundersfund", "l": 20, "t": "0624", "s": "Full interview link shared.", "tag": "raw"}
+{"a": "eladgil", "l": 44, "t": "0512", "s": "Full episode on Long Lake AI take-private of AmEx Global Business Travel.", "tag": "raw"}
+{"a": "eladgil", "l": 128, "t": "0512", "s": "Congrats on Isomorphic Labs $2.1B funding for drug discovery.", "tag": "raw"}
+{"a": "eladgil", "l": 399, "t": "0512", "s": "Long Lake did first AI-driven take private of $6.3B Amex company.", "tag": "raw"}
+{"a": "pmarca", "l": 5, "t": "0516", "s": "Commented on old financial services aesthetics.", "tag": "raw"}
+{"a": "pmarca", "l": 38, "t": "0516", "s": "Valid comment on prompt engineering image.", "tag": "raw"}
+{"a": "pmarca", "l": 74, "t": "0516", "s": "Co-signed Ken Griffin on AI productivity step change.", "tag": "raw"}
+{"a": "bchesky", "l": 23, "t": "0511", "s": "Will disrupt ourselves before others do.", "tag": "raw"}
+{"a": "bchesky", "l": 19, "t": "0511", "s": "Agree, we are building this.", "tag": "raw"}
+{"a": "bchesky", "l": 417, "t": "0511", "s": "$100B flows through app yearly; redesigning AI-native flow without killing conversion.", "tag": "raw"}
+{"a": "chamath", "l": 68, "t": "0516", "s": "Usage limits (reply)", "tag": "raw"}
+{"a": "chamath", "l": 195, "t": "0516", "s": "Ask me in 10 years after trade cures.", "tag": "raw"}
+{"a": "chamath", "l": 25, "t": "0516", "s": "Opus (reply)", "tag": "raw"}
+{"a": "paulg", "l": 41, "t": "0516", "s": "Hopes it will flourish again one day.", "tag": "raw"}
+{"a": "paulg", "l": 27, "t": "0516", "s": "Especially when acquirer was portfolio company.", "tag": "raw"}
+{"a": "paulg", "l": 37, "t": "0516", "s": "Many tweets are generalized from emails to founders.", "tag": "raw"}
+{"a": "TheInformation", "l": 3, "t": "0516", "s": "AI IPO market rewards capex-heavy chip companies like Cerebras.", "tag": "raw"}
+{"a": "TheInformation", "l": 19, "t": "0516", "s": "Companies struggle with Anthropic Claude unpredictable costs due to lack of telemetry.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0516", "s": "Investors pour into nuclear startup with aggressive timelines.", "tag": "raw"}
+{"a": "TechCrunch", "l": 19, "t": "0516", "s": "The haves and have nots of the AI gold rush.", "tag": "raw"}
+{"a": "TechCrunch", "l": 15, "t": "0516", "s": "Nectar Social raises $30M Series A.", "tag": "raw"}
+{"a": "TechCrunch", "l": 21, "t": "0516", "s": "ArXiv will ban authors for a year if AI does all the work.", "tag": "raw"}
+{"a": "verge", "l": 23, "t": "0516", "s": "Snap, YouTube, TikTok settle suit over harm to students.", "tag": "raw"}
+{"a": "verge", "l": 26, "t": "0516", "s": "Sony explains AI Camera Assistant.", "tag": "raw"}
+{"a": "verge", "l": 10, "t": "0516", "s": "NPR’s Manoush Zomorodi on living with too much tech.", "tag": "raw"}
+{"a": "WIRED", "l": 13, "t": "0516", "s": "Men obsessed with AI; wives hate it.", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0516", "s": "More accurate cholesterol risk measurement underused.", "tag": "raw"}
+{"a": "WIRED", "l": 5, "t": "0516", "s": "AI kids toys could disrupt play; lawmakers want bans.", "tag": "raw"}
