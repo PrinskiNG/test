@@ -1,0 +1,152 @@
+{
+  "tualatrix": {
+    "total": 10,
+    "max_l": 92,
+    "latest": "0520"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "jiangjiang": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "hw_star": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "mranti": {
+    "total": 10,
+    "max_l": 63,
+    "latest": "0520"
+  },
+  "nishuang": {
+    "total": 8,
+    "max_l": 37,
+    "latest": "0409"
+  },
+  "a16z": {
+    "total": 10,
+    "max_l": 677,
+    "latest": "0520"
+  },
+  "ycombinator": {
+    "total": 10,
+    "max_l": 845,
+    "latest": "0520"
+  },
+  "lightspeedvp": {
+    "total": 10,
+    "max_l": 25,
+    "latest": "0520"
+  },
+  "sequoia": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0508"
+  },
+  "foundersfund": {
+    "total": 10,
+    "max_l": 644,
+    "latest": "0701"
+  },
+  "chamath": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "paulg": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "TheInformation": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "TechCrunch": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "verge": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "WIRED": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 24,
+    "latest": "0521"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 77,
+    "latest": "0520"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 1771,
+    "latest": "0520"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 4619,
+    "latest": "0430"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 591,
+    "latest": "0520"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2403,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 10,
+    "max_l": 1172,
+    "latest": "0520"
+  },
+  "TogetherCompute": {
+    "total": 10,
+    "max_l": 114,
+    "latest": "0520"
+  },
+  "runwayml": {
+    "total": 10,
+    "max_l": 710,
+    "latest": "0520"
+  }
+}
