@@ -1,0 +1,137 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 14492,
+    "latest": "0522"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 15820,
+    "latest": "0521"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 147450,
+    "latest": "0519"
+  },
+  "demishassabis": {
+    "total": 10,
+    "max_l": 9334,
+    "latest": "0521"
+  },
+  "DarioAmodei": {
+    "total": 10,
+    "max_l": 15373,
+    "latest": "0407"
+  },
+  "OpenAI": {
+    "total": 10,
+    "max_l": 24481,
+    "latest": "0520"
+  },
+  "AnthropicAI": {
+    "total": 10,
+    "max_l": 5937,
+    "latest": "0519"
+  },
+  "GoogleDeepMind": {
+    "total": 10,
+    "max_l": 1375,
+    "latest": "0521"
+  },
+  "xAI": {
+    "total": 10,
+    "max_l": 10215,
+    "latest": "0521"
+  },
+  "tualatrix": {
+    "total": 10,
+    "max_l": 20,
+    "latest": "0521"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "jiangjiang": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "hw_star": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "mranti": {
+    "total": 10,
+    "max_l": 70,
+    "latest": "0521"
+  },
+  "nishuang": {
+    "total": 10,
+    "max_l": 37,
+    "latest": "0409"
+  },
+  "a16z": {
+    "total": 10,
+    "max_l": 1674,
+    "latest": "0521"
+  },
+  "ycombinator": {
+    "total": 10,
+    "max_l": 448,
+    "latest": "0521"
+  },
+  "lightspeedvp": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0520"
+  },
+  "sequoia": {
+    "total": 10,
+    "max_l": 34,
+    "latest": "0508"
+  },
+  "foundersfund": {
+    "total": 10,
+    "max_l": 644,
+    "latest": "0701"
+  },
+  "eladgil": {
+    "total": 10,
+    "max_l": 406,
+    "latest": "0512"
+  },
+  "pmarca": {
+    "total": 10,
+    "max_l": 1165,
+    "latest": "0521"
+  },
+  "bchesky": {
+    "total": 10,
+    "max_l": 3177,
+    "latest": "0521"
+  }
+}
