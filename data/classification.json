@@ -1,32 +1,4 @@
 {
-  "date": "2026-05-22",
-  "classification": {
-    "elonmusk": "S",
-    "sama": "S",
-    "karpathy": "S",
-    "demishassabis": "A",
-    "DarioAmodei": "inactive",
-    "OpenAI": "S",
-    "AnthropicAI": "A",
-    "GoogleDeepMind": "A",
-    "xAI": "S",
-    "tualatrix": "B",
-    "linyunqiu": "inactive",
-    "garywong": "inactive",
-    "web3buidl": "inactive",
-    "AI_Era": "inactive",
-    "AIGC_News": "inactive",
-    "jiangjiang": "inactive",
-    "hw_star": "inactive",
-    "mranti": "B",
-    "nishuang": "inactive",
-    "a16z": "A",
-    "ycombinator": "B",
-    "lightspeedvp": "B",
-    "sequoia": "B",
-    "foundersfund": "inactive",
-    "eladgil": "B",
-    "pmarca": "A",
-    "bchesky": "A"
-  }
+  "date": "2026-05-23",
+  "classification": {}
 }
